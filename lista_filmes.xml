@@ -1,164 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-      <title>Importação Radarr</title>
-      <description>Lista de filmes limpa para Radarr RSS Import</description>
-      <link>http://example.com/rss</link>
-      <lastBuildDate>Mon, 12 Jan 2026 19:25:00 GMT</lastBuildDate>
-      <item>
-          <title><![CDATA[ Presas do Abismo (2025) ]]></title>
-          <guid isPermaLink="false">Presas do Abismo (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ A Mulher Verde (2022) ]]></title>
-          <guid isPermaLink="false">A Mulher Verde (2022)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ C.I.C. - Central de Inteligência Cearense (2025) ]]></title>
-          <guid isPermaLink="false">C.I.C. - Central de Inteligência Cearense (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Dakar: Corrida Contra o Deserto (2024) ]]></title>
-          <guid isPermaLink="false">Dakar: Corrida Contra o Deserto (2024)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Mauricio de Sousa - O Filme (2025) ]]></title>
-          <guid isPermaLink="false">Mauricio de Sousa - O Filme (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ A Nova Vida de Clemence (2022) ]]></title>
-          <guid isPermaLink="false">A Nova Vida de Clemence (2022)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ She Rides Shotgun (2025) ]]></title>
-          <guid isPermaLink="false">She Rides Shotgun (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ DC Constantine - Cidade de Demônios (2018) ]]></title>
-          <guid isPermaLink="false">DC Constantine - Cidade de Demônios (2018)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Dose Dupla (2024) ]]></title>
-          <guid isPermaLink="false">Dose Dupla (2024)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ The Life of Chuck (2024) ]]></title>
-          <guid isPermaLink="false">The Life of Chuck (2024)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Histórias Estranhas 2 (2024) ]]></title>
-          <guid isPermaLink="false">Histórias Estranhas 2 (2024)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Segredos Letais (2023) ]]></title>
-          <guid isPermaLink="false">Segredos Letais (2023)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ A Lista Perversa do Sr. Scrooge (2024) ]]></title>
-          <guid isPermaLink="false">A Lista Perversa do Sr. Scrooge (2024)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Crackcoon (2024) ]]></title>
-          <guid isPermaLink="false">Crackcoon (2024)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Hell House LLC Origins: The Carmichael Manor (2023) ]]></title>
-          <guid isPermaLink="false">Hell House LLC Origins: The Carmichael Manor (2023)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Great White Waters (2025) ]]></title>
-          <guid isPermaLink="false">Great White Waters (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Cerco ao Terror: Ataque ao Templo (2021) ]]></title>
-          <guid isPermaLink="false">Cerco ao Terror: Ataque ao Templo (2021)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Meus Pais Foram Abduzidos e Agora Me Sinto um Completo Estranho (2023) ]]></title>
-          <guid isPermaLink="false">Meus Pais Foram Abduzidos e Agora Me Sinto um Completo Estranho (2023)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Together (2025) ]]></title>
-          <guid isPermaLink="false">Together (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Death of a Unicorn (2025) ]]></title>
-          <guid isPermaLink="false">Death of a Unicorn (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Deadpool & Wolverine (2024) ]]></title>
-          <guid isPermaLink="false">Deadpool & Wolverine (2024)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Elio (2025) ]]></title>
-          <guid isPermaLink="false">Elio (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ The Naked Gun (2025) ]]></title>
-          <guid isPermaLink="false">The Naked Gun (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ O Homem Que Mudou O Jogo (2011) ]]></title>
-          <guid isPermaLink="false">O Homem Que Mudou O Jogo (2011)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Entre as Luzes (2023) ]]></title>
-          <guid isPermaLink="false">Entre as Luzes (2023)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Thunderbolts* (2025) ]]></title>
-          <guid isPermaLink="false">Thunderbolts* (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Absolute Dominion (2025) ]]></title>
-          <guid isPermaLink="false">Absolute Dominion (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Joker: Folie à Deux (2024) ]]></title>
-          <guid isPermaLink="false">Joker: Folie à Deux (2024)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Marcas do Passado (2022) ]]></title>
-          <guid isPermaLink="false">Marcas do Passado (2022)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Onda de Violência (2025) ]]></title>
-          <guid isPermaLink="false">Onda de Violência (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Cães de Guerra (2024) ]]></title>
-          <guid isPermaLink="false">Cães de Guerra (2024)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ LEGO Disney Princesa: Vilões Unidos (2025) ]]></title>
-          <guid isPermaLink="false">LEGO Disney Princesa: Vilões Unidos (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Lilo & Stitch (2025) ]]></title>
-          <guid isPermaLink="false">Lilo & Stitch (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Dungeons & Dragons: Honra Entre Rebeldes (2023) ]]></title>
-          <guid isPermaLink="false">Dungeons & Dragons: Honra Entre Rebeldes (2023)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Encantadora de Tubarões (2025) ]]></title>
-          <guid isPermaLink="false">Encantadora de Tubarões (2025)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Romeu Tem Que Morrer (2000) ]]></title>
-          <guid isPermaLink="false">Romeu Tem Que Morrer (2000)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Uma Viagem ao Desconhecido (2023) ]]></title>
-          <guid isPermaLink="false">Uma Viagem ao Desconhecido (2023)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Onyx the Fortuitous and the Talisman of Souls (2023) ]]></title>
-          <guid isPermaLink="false">Onyx the Fortuitous and the Talisman of Souls (2023)</guid>
-      </item>
-      <item>
-          <title><![CDATA[ Uma Receita de Natal (2022) ]]></title>
-          <guid isPermaLink="false">Uma Receita de Natal (2022)</guid>
-      </item>
+    <title>Importação Radarr</title>
+    <description>Lista de filmes limpa para Radarr RSS Import</description>
+    <link>http://example.com/rss</link>
+    <lastBuildDate>Mon, 12 Jan 2026 19:25:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>Presas do Abismo (2025)</title>
+      <guid isPermaLink="false">Presas do Abismo (2025)</guid>
+    </item>
+    
+    <item>
+      <title>A Mulher Verde (2022)</title>
+      <guid isPermaLink="false">A Mulher Verde (2022)</guid>
+    </item>
+    
+    <item>
+      <title>C.I.C. - Central de Inteligência Cearense (2025)</title>
+      <guid isPermaLink="false">C.I.C. - Central de Inteligência Cearense (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Dakar: Corrida Contra o Deserto (2024)</title>
+      <guid isPermaLink="false">Dakar: Corrida Contra o Deserto (2024)</guid>
+    </item>
+    
+    <item>
+      <title>Mauricio de Sousa - O Filme (2025)</title>
+      <guid isPermaLink="false">Mauricio de Sousa - O Filme (2025)</guid>
+    </item>
+    
+    <item>
+      <title>A Nova Vida de Clemence (2022)</title>
+      <guid isPermaLink="false">A Nova Vida de Clemence (2022)</guid>
+    </item>
+    
+    <item>
+      <title>She Rides Shotgun (2025)</title>
+      <guid isPermaLink="false">She Rides Shotgun (2025)</guid>
+    </item>
+    
+    <item>
+      <title>DC Constantine - Cidade de Demônios (2018)</title>
+      <guid isPermaLink="false">DC Constantine - Cidade de Demônios (2018)</guid>
+    </item>
+    
+    <item>
+      <title>Dose Dupla (2024)</title>
+      <guid isPermaLink="false">Dose Dupla (2024)</guid>
+    </item>
+    
+    <item>
+      <title>The Life of Chuck (2024)</title>
+      <guid isPermaLink="false">The Life of Chuck (2024)</guid>
+    </item>
+    
+    <item>
+      <title>Histórias Estranhas 2 (2024)</title>
+      <guid isPermaLink="false">Histórias Estranhas 2 (2024)</guid>
+    </item>
+    
+    <item>
+      <title>Segredos Letais (2023)</title>
+      <guid isPermaLink="false">Segredos Letais (2023)</guid>
+    </item>
+    
+    <item>
+      <title>A Lista Perversa do Sr. Scrooge (2024)</title>
+      <guid isPermaLink="false">A Lista Perversa do Sr. Scrooge (2024)</guid>
+    </item>
+    
+    <item>
+      <title>Crackcoon (2024)</title>
+      <guid isPermaLink="false">Crackcoon (2024)</guid>
+    </item>
+    
+    <item>
+      <title>Hell House LLC Origins: The Carmichael Manor (2023)</title>
+      <guid isPermaLink="false">Hell House LLC Origins: The Carmichael Manor (2023)</guid>
+    </item>
+    
+    <item>
+      <title>Great White Waters (2025)</title>
+      <guid isPermaLink="false">Great White Waters (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Cerco ao Terror: Ataque ao Templo (2021)</title>
+      <guid isPermaLink="false">Cerco ao Terror: Ataque ao Templo (2021)</guid>
+    </item>
+    
+    <item>
+      <title>Meus Pais Foram Abduzidos e Agora Me Sinto um Completo Estranho (2023)</title>
+      <guid isPermaLink="false">Meus Pais Foram Abduzidos e Agora Me Sinto um Completo Estranho (2023)</guid>
+    </item>
+    
+    <item>
+      <title>Together (2025)</title>
+      <guid isPermaLink="false">Together (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Death of a Unicorn (2025)</title>
+      <guid isPermaLink="false">Death of a Unicorn (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Deadpool &amp; Wolverine (2024)</title>
+      <guid isPermaLink="false">Deadpool &amp; Wolverine (2024)</guid>
+    </item>
+    
+    <item>
+      <title>Elio (2025)</title>
+      <guid isPermaLink="false">Elio (2025)</guid>
+    </item>
+    
+    <item>
+      <title>The Naked Gun (2025)</title>
+      <guid isPermaLink="false">The Naked Gun (2025)</guid>
+    </item>
+    
+    <item>
+      <title>O Homem Que Mudou O Jogo (2011)</title>
+      <guid isPermaLink="false">O Homem Que Mudou O Jogo (2011)</guid>
+    </item>
+    
+    <item>
+      <title>Entre as Luzes (2023)</title>
+      <guid isPermaLink="false">Entre as Luzes (2023)</guid>
+    </item>
+    
+    <item>
+      <title>Thunderbolts* (2025)</title>
+      <guid isPermaLink="false">Thunderbolts* (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Absolute Dominion (2025)</title>
+      <guid isPermaLink="false">Absolute Dominion (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Joker: Folie à Deux (2024)</title>
+      <guid isPermaLink="false">Joker: Folie à Deux (2024)</guid>
+    </item>
+    
+    <item>
+      <title>Marcas do Passado (2022)</title>
+      <guid isPermaLink="false">Marcas do Passado (2022)</guid>
+    </item>
+    
+    <item>
+      <title>Onda de Violência (2025)</title>
+      <guid isPermaLink="false">Onda de Violência (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Cães de Guerra (2024)</title>
+      <guid isPermaLink="false">Cães de Guerra (2024)</guid>
+    </item>
+    
+    <item>
+      <title>LEGO Disney Princesa: Vilões Unidos (2025)</title>
+      <guid isPermaLink="false">LEGO Disney Princesa: Vilões Unidos (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Lilo &amp; Stitch (2025)</title>
+      <guid isPermaLink="false">Lilo &amp; Stitch (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Dungeons &amp; Dragons: Honra Entre Rebeldes (2023)</title>
+      <guid isPermaLink="false">Dungeons &amp; Dragons: Honra Entre Rebeldes (2023)</guid>
+    </item>
+    
+    <item>
+      <title>Encantadora de Tubarões (2025)</title>
+      <guid isPermaLink="false">Encantadora de Tubarões (2025)</guid>
+    </item>
+    
+    <item>
+      <title>Romeu Tem Que Morrer (2000)</title>
+      <guid isPermaLink="false">Romeu Tem Que Morrer (2000)</guid>
+    </item>
+    
+    <item>
+      <title>Uma Viagem ao Desconhecido (2023)</title>
+      <guid isPermaLink="false">Uma Viagem ao Desconhecido (2023)</guid>
+    </item>
+    
+    <item>
+      <title>Onyx the Fortuitous and the Talisman of Souls (2023)</title>
+      <guid isPermaLink="false">Onyx the Fortuitous and the Talisman of Souls (2023)</guid>
+    </item>
+    
+    <item>
+      <title>Uma Receita de Natal (2022)</title>
+      <guid isPermaLink="false">Uma Receita de Natal (2022)</guid>
+    </item>
   </channel>
 </rss>
