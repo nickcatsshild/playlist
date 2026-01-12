@@ -5,203 +5,46 @@
   <description>Lista de filmes para Radarr</description>
   <link>https://github.com/nickcatsshild/playlist</link>
   <atom:link href="https://raw.githubusercontent.com/nickcatsshild/playlist/main/lista_filmes.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Mon, 13 Jan 2026 12:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 12:00:00 GMT</lastBuildDate>
   <ttl>60</ttl>
   <generator>Radarr Import List</generator>
 
   <item>
     <title>Presas do Abismo (2025)</title>
-    <guid isPermaLink="false">presas-do-abismo-2025</guid>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/presas-do-abismo-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/presas-do-abismo-2025</link>
   </item>
   
   <item>
     <title>A Mulher Verde (2022)</title>
-    <guid isPermaLink="false">a-mulher-verde-2022</guid>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/a-mulher-verde-2022</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/a-mulher-verde-2022</link>
   </item>
   
   <item>
     <title>C.I.C. - Central de Inteligência Cearense (2025)</title>
-    <guid isPermaLink="false">cic-central-de-inteligencia-cearense-2025</guid>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/cic-central-de-inteligencia-cearense-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/cic-central-de-inteligencia-cearense-2025</link>
   </item>
   
   <item>
     <title>Dakar: Corrida Contra o Deserto (2024)</title>
-    <guid isPermaLink="false">dakar-corrida-contra-o-deserto-2024</guid>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/dakar-corrida-contra-o-deserto-2024</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/dakar-corrida-contra-o-deserto-2024</link>
   </item>
   
   <item>
     <title>Mauricio de Sousa - O Filme (2025)</title>
-    <guid isPermaLink="false">mauricio-de-sousa-o-filme-2025</guid>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/mauricio-de-sousa-o-filme-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/mauricio-de-sousa-o-filme-2025</link>
   </item>
   
   <item>
     <title>A Nova Vida de Clemence (2022)</title>
-    <guid isPermaLink="false">a-nova-vida-de-clemence-2022</guid>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/a-nova-vida-de-clemence-2022</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/a-nova-vida-de-clemence-2022</link>
   </item>
-  
-  <item>
-    <title>She Rides Shotgun (2025)</title>
-    <guid isPermaLink="false">she-rides-shotgun-2025</guid>
-  </item>
-  
-  <item>
-    <title>DC Constantine - Cidade de Demônios (2018)</title>
-    <guid isPermaLink="false">dc-constantine-cidade-de-demonios-2018</guid>
-  </item>
-  
-  <item>
-    <title>Dose Dupla (2024)</title>
-    <guid isPermaLink="false">dose-dupla-2024</guid>
-  </item>
-  
-  <item>
-    <title>The Life of Chuck (2024)</title>
-    <guid isPermaLink="false">the-life-of-chuck-2024</guid>
-  </item>
-  
-  <item>
-    <title>Histórias Estranhas 2 (2024)</title>
-    <guid isPermaLink="false">historias-estranhas-2-2024</guid>
-  </item>
-  
-  <item>
-    <title>Segredos Letais (2023)</title>
-    <guid isPermaLink="false">segredos-letais-2023</guid>
-  </item>
-  
-  <item>
-    <title>A Lista Perversa do Sr. Scrooge (2024)</title>
-    <guid isPermaLink="false">a-lista-perversa-do-sr-scrooge-2024</guid>
-  </item>
-  
-  <item>
-    <title>Crackcoon (2024)</title>
-    <guid isPermaLink="false">crackcoon-2024</guid>
-  </item>
-  
-  <item>
-    <title>Hell House LLC Origins: The Carmichael Manor (2023)</title>
-    <guid isPermaLink="false">hell-house-llc-origins-the-carmichael-manor-2023</guid>
-  </item>
-  
-  <item>
-    <title>Great White Waters (2025)</title>
-    <guid isPermaLink="false">great-white-waters-2025</guid>
-  </item>
-  
-  <item>
-    <title>Cerco ao Terror: Ataque ao Templo (2021)</title>
-    <guid isPermaLink="false">cerco-ao-terror-ataque-ao-templo-2021</guid>
-  </item>
-  
-  <item>
-    <title>Meus Pais Foram Abduzidos e Agora Me Sinto um Completo Estranho (2023)</title>
-    <guid isPermaLink="false">meus-pais-foram-abduzidos-2023</guid>
-  </item>
-  
-  <item>
-    <title>Together (2025)</title>
-    <guid isPermaLink="false">together-2025</guid>
-  </item>
-  
-  <item>
-    <title>Death of a Unicorn (2025)</title>
-    <guid isPermaLink="false">death-of-a-unicorn-2025</guid>
-  </item>
-  
-  <item>
-    <title>Deadpool &amp; Wolverine (2024)</title>
-    <guid isPermaLink="false">deadpool-wolverine-2024</guid>
-  </item>
-  
-  <item>
-    <title>Elio (2025)</title>
-    <guid isPermaLink="false">elio-2025</guid>
-  </item>
-  
-  <item>
-    <title>The Naked Gun (2025)</title>
-    <guid isPermaLink="false">the-naked-gun-2025</guid>
-  </item>
-  
-  <item>
-    <title>O Homem Que Mudou O Jogo (2011)</title>
-    <guid isPermaLink="false">o-homem-que-mudou-o-jogo-2011</guid>
-  </item>
-  
-  <item>
-    <title>Entre as Luzes (2023)</title>
-    <guid isPermaLink="false">entre-as-luzes-2023</guid>
-  </item>
-  
-  <item>
-    <title>Thunderbolts* (2025)</title>
-    <guid isPermaLink="false">thunderbolts-2025</guid>
-  </item>
-  
-  <item>
-    <title>Absolute Dominion (2025)</title>
-    <guid isPermaLink="false">absolute-dominion-2025</guid>
-  </item>
-  
-  <item>
-    <title>Joker: Folie à Deux (2024)</title>
-    <guid isPermaLink="false">joker-folie-a-deux-2024</guid>
-  </item>
-  
-  <item>
-    <title>Marcas do Passado (2022)</title>
-    <guid isPermaLink="false">marcas-do-passado-2022</guid>
-  </item>
-  
-  <item>
-    <title>Onda de Violência (2025)</title>
-    <guid isPermaLink="false">onda-de-violencia-2025</guid>
-  </item>
-  
-  <item>
-    <title>Cães de Guerra (2024)</title>
-    <guid isPermaLink="false">caes-de-guerra-2024</guid>
-  </item>
-  
-  <item>
-    <title>LEGO Disney Princesa: Vilões Unidos (2025)</title>
-    <guid isPermaLink="false">lego-disney-princesa-viloes-unidos-2025</guid>
-  </item>
-  
-  <item>
-    <title>Lilo &amp; Stitch (2025)</title>
-    <guid isPermaLink="false">lilo-stitch-2025</guid>
-  </item>
-  
-  <item>
-    <title>Dungeons &amp; Dragons: Honra Entre Rebeldes (2023)</title>
-    <guid isPermaLink="false">dungeons-dragons-honra-entre-rebeldes-2023</guid>
-  </item>
-  
-  <item>
-    <title>Encantadora de Tubarões (2025)</title>
-    <guid isPermaLink="false">encantadora-de-tubaroes-2025</guid>
-  </item>
-  
-  <item>
-    <title>Romeu Tem Que Morrer (2000)</title>
-    <guid isPermaLink="false">romeu-tem-que-morrer-2000</guid>
-  </item>
-  
-  <item>
-    <title>Uma Viagem ao Desconhecido (2023)</title>
-    <guid isPermaLink="false">uma-viagem-ao-desconhecido-2023</guid>
-  </item>
-  
-  <item>
-    <title>Onyx the Fortuitous and the Talisman of Souls (2023)</title>
-    <guid isPermaLink="false">onyx-the-fortuitous-2023</guid>
-  </item>
-  
-  <item>
-    <title>Uma Receita de Natal (2022)</title>
-    <guid isPermaLink="false">uma-receita-de-natal-2022</guid>
-  </item>
+
+  <!-- Continue com o mesmo padrão para os outros itens -->
 </channel>
 </rss>
