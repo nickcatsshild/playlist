@@ -1,204 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Importação Radarr</title>
-    <description>Lista de filmes limpa para Radarr RSS Import</description>
-    <link>http://example.com/rss</link>
+    <description>Lista de filmes para Radarr</description>
+    <link>https://example.com</link>
+    <atom:link href="https://seuusuario.github.io/filmes.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>Mon, 12 Jan 2026 19:25:00 GMT</lastBuildDate>
-    
+    <ttl>60</ttl>
+    <generator>Radarr Import List</generator>
+
     <item>
       <title>Presas do Abismo (2025)</title>
-      <guid isPermaLink="false">Presas do Abismo (2025)</guid>
+      <guid>presas-do-abismo-2025</guid>
     </item>
     
     <item>
       <title>A Mulher Verde (2022)</title>
-      <guid isPermaLink="false">A Mulher Verde (2022)</guid>
+      <guid>a-mulher-verde-2022</guid>
     </item>
     
     <item>
       <title>C.I.C. - Central de Inteligência Cearense (2025)</title>
-      <guid isPermaLink="false">C.I.C. - Central de Inteligência Cearense (2025)</guid>
+      <guid>cic-central-de-inteligencia-cearense-2025</guid>
     </item>
     
     <item>
       <title>Dakar: Corrida Contra o Deserto (2024)</title>
-      <guid isPermaLink="false">Dakar: Corrida Contra o Deserto (2024)</guid>
+      <guid>dakar-corrida-contra-o-deserto-2024</guid>
     </item>
     
     <item>
       <title>Mauricio de Sousa - O Filme (2025)</title>
-      <guid isPermaLink="false">Mauricio de Sousa - O Filme (2025)</guid>
+      <guid>mauricio-de-sousa-o-filme-2025</guid>
     </item>
     
     <item>
       <title>A Nova Vida de Clemence (2022)</title>
-      <guid isPermaLink="false">A Nova Vida de Clemence (2022)</guid>
+      <guid>a-nova-vida-de-clemence-2022</guid>
     </item>
     
     <item>
       <title>She Rides Shotgun (2025)</title>
-      <guid isPermaLink="false">She Rides Shotgun (2025)</guid>
+      <guid>she-rides-shotgun-2025</guid>
     </item>
     
     <item>
       <title>DC Constantine - Cidade de Demônios (2018)</title>
-      <guid isPermaLink="false">DC Constantine - Cidade de Demônios (2018)</guid>
+      <guid>dc-constantine-cidade-de-demonios-2018</guid>
     </item>
     
     <item>
       <title>Dose Dupla (2024)</title>
-      <guid isPermaLink="false">Dose Dupla (2024)</guid>
+      <guid>dose-dupla-2024</guid>
     </item>
     
     <item>
       <title>The Life of Chuck (2024)</title>
-      <guid isPermaLink="false">The Life of Chuck (2024)</guid>
+      <guid>the-life-of-chuck-2024</guid>
     </item>
     
     <item>
       <title>Histórias Estranhas 2 (2024)</title>
-      <guid isPermaLink="false">Histórias Estranhas 2 (2024)</guid>
+      <guid>historias-estranhas-2-2024</guid>
     </item>
     
     <item>
       <title>Segredos Letais (2023)</title>
-      <guid isPermaLink="false">Segredos Letais (2023)</guid>
+      <guid>segredos-letais-2023</guid>
     </item>
     
     <item>
       <title>A Lista Perversa do Sr. Scrooge (2024)</title>
-      <guid isPermaLink="false">A Lista Perversa do Sr. Scrooge (2024)</guid>
+      <guid>a-lista-perversa-do-sr-scrooge-2024</guid>
     </item>
     
     <item>
       <title>Crackcoon (2024)</title>
-      <guid isPermaLink="false">Crackcoon (2024)</guid>
+      <guid>crackcoon-2024</guid>
     </item>
     
     <item>
       <title>Hell House LLC Origins: The Carmichael Manor (2023)</title>
-      <guid isPermaLink="false">Hell House LLC Origins: The Carmichael Manor (2023)</guid>
+      <guid>hell-house-llc-origins-the-carmichael-manor-2023</guid>
     </item>
     
     <item>
       <title>Great White Waters (2025)</title>
-      <guid isPermaLink="false">Great White Waters (2025)</guid>
+      <guid>great-white-waters-2025</guid>
     </item>
     
     <item>
       <title>Cerco ao Terror: Ataque ao Templo (2021)</title>
-      <guid isPermaLink="false">Cerco ao Terror: Ataque ao Templo (2021)</guid>
+      <guid>cerco-ao-terror-ataque-ao-templo-2021</guid>
     </item>
     
     <item>
       <title>Meus Pais Foram Abduzidos e Agora Me Sinto um Completo Estranho (2023)</title>
-      <guid isPermaLink="false">Meus Pais Foram Abduzidos e Agora Me Sinto um Completo Estranho (2023)</guid>
+      <guid>meus-pais-foram-abduzidos-2023</guid>
     </item>
     
     <item>
       <title>Together (2025)</title>
-      <guid isPermaLink="false">Together (2025)</guid>
+      <guid>together-2025</guid>
     </item>
     
     <item>
       <title>Death of a Unicorn (2025)</title>
-      <guid isPermaLink="false">Death of a Unicorn (2025)</guid>
+      <guid>death-of-a-unicorn-2025</guid>
     </item>
     
     <item>
       <title>Deadpool &amp; Wolverine (2024)</title>
-      <guid isPermaLink="false">Deadpool &amp; Wolverine (2024)</guid>
+      <guid>deadpool-wolverine-2024</guid>
     </item>
     
     <item>
       <title>Elio (2025)</title>
-      <guid isPermaLink="false">Elio (2025)</guid>
+      <guid>elio-2025</guid>
     </item>
     
     <item>
       <title>The Naked Gun (2025)</title>
-      <guid isPermaLink="false">The Naked Gun (2025)</guid>
+      <guid>the-naked-gun-2025</guid>
     </item>
     
     <item>
       <title>O Homem Que Mudou O Jogo (2011)</title>
-      <guid isPermaLink="false">O Homem Que Mudou O Jogo (2011)</guid>
+      <guid>o-homem-que-mudou-o-jogo-2011</guid>
     </item>
     
     <item>
       <title>Entre as Luzes (2023)</title>
-      <guid isPermaLink="false">Entre as Luzes (2023)</guid>
+      <guid>entre-as-luzes-2023</guid>
     </item>
     
     <item>
       <title>Thunderbolts* (2025)</title>
-      <guid isPermaLink="false">Thunderbolts* (2025)</guid>
+      <guid>thunderbolts-2025</guid>
     </item>
     
     <item>
       <title>Absolute Dominion (2025)</title>
-      <guid isPermaLink="false">Absolute Dominion (2025)</guid>
+      <guid>absolute-dominion-2025</guid>
     </item>
     
     <item>
       <title>Joker: Folie à Deux (2024)</title>
-      <guid isPermaLink="false">Joker: Folie à Deux (2024)</guid>
+      <guid>joker-folie-a-deux-2024</guid>
     </item>
     
     <item>
       <title>Marcas do Passado (2022)</title>
-      <guid isPermaLink="false">Marcas do Passado (2022)</guid>
+      <guid>marcas-do-passado-2022</guid>
     </item>
     
     <item>
       <title>Onda de Violência (2025)</title>
-      <guid isPermaLink="false">Onda de Violência (2025)</guid>
+      <guid>onda-de-violencia-2025</guid>
     </item>
     
     <item>
       <title>Cães de Guerra (2024)</title>
-      <guid isPermaLink="false">Cães de Guerra (2024)</guid>
+      <guid>caes-de-guerra-2024</guid>
     </item>
     
     <item>
       <title>LEGO Disney Princesa: Vilões Unidos (2025)</title>
-      <guid isPermaLink="false">LEGO Disney Princesa: Vilões Unidos (2025)</guid>
+      <guid>lego-disney-princesa-viloes-unidos-2025</guid>
     </item>
     
     <item>
       <title>Lilo &amp; Stitch (2025)</title>
-      <guid isPermaLink="false">Lilo &amp; Stitch (2025)</guid>
+      <guid>lilo-stitch-2025</guid>
     </item>
     
     <item>
       <title>Dungeons &amp; Dragons: Honra Entre Rebeldes (2023)</title>
-      <guid isPermaLink="false">Dungeons &amp; Dragons: Honra Entre Rebeldes (2023)</guid>
+      <guid>dungeons-dragons-honra-entre-rebeldes-2023</guid>
     </item>
     
     <item>
       <title>Encantadora de Tubarões (2025)</title>
-      <guid isPermaLink="false">Encantadora de Tubarões (2025)</guid>
+      <guid>encantadora-de-tubaroes-2025</guid>
     </item>
     
     <item>
       <title>Romeu Tem Que Morrer (2000)</title>
-      <guid isPermaLink="false">Romeu Tem Que Morrer (2000)</guid>
+      <guid>romeu-tem-que-morrer-2000</guid>
     </item>
     
     <item>
       <title>Uma Viagem ao Desconhecido (2023)</title>
-      <guid isPermaLink="false">Uma Viagem ao Desconhecido (2023)</guid>
+      <guid>uma-viagem-ao-desconhecido-2023</guid>
     </item>
     
     <item>
       <title>Onyx the Fortuitous and the Talisman of Souls (2023)</title>
-      <guid isPermaLink="false">Onyx the Fortuitous and the Talisman of Souls (2023)</guid>
+      <guid>onyx-the-fortuitous-2023</guid>
     </item>
     
     <item>
       <title>Uma Receita de Natal (2022)</title>
-      <guid isPermaLink="false">Uma Receita de Natal (2022)</guid>
+      <guid>uma-receita-de-natal-2022</guid>
     </item>
   </channel>
 </rss>
