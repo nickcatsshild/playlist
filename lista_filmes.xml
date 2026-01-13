@@ -5,7 +5,7 @@
   <description>Lista de filmes para Radarr</description>
   <link>https://github.com/nickcatsshild/playlist</link>
   <atom:link href="https://raw.githubusercontent.com/nickcatsshild/playlist/main/lista_filmes.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Tue, 13 Jan 2026 12:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Jan 2026 17:00:00 GMT</lastBuildDate>
   <ttl>60</ttl>
   <generator>Radarr Import List</generator>
 
@@ -493,6 +493,1492 @@
     <title>Smurfs (2025)</title>
     <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/smurfs-2025</guid>
     <link>https://github.com/nickcatsshild/playlist/blob/main/smurfs-2025</link>
+  </item>
+
+  <item>
+    <title>O Dublê (2024)</title>
+    <guid isPermaLink="false">tmdb:746036</guid>
+    <link>https://www.themoviedb.org/movie/746036</link>
+  </item>
+
+  <item>
+    <title>Super Mario Bros. O Filme (2023)</title>
+    <guid isPermaLink="false">tmdb:502356</guid>
+    <link>https://www.themoviedb.org/movie/502356</link>
+  </item>
+
+  <item>
+    <title>Avatar: O Caminho da Água (2022)</title>
+    <guid isPermaLink="false">tmdb:76600</guid>
+    <link>https://www.themoviedb.org/movie/76600</link>
+  </item>
+
+  <item>
+    <title>Guardiões da Galáxia Vol. 3 (2023)</title>
+    <guid isPermaLink="false">tmdb:447365</guid>
+    <link>https://www.themoviedb.org/movie/447365</link>
+  </item>
+
+  <item>
+    <title>John Wick 4: Baba Yaga (2023)</title>
+    <guid isPermaLink="false">tmdb:603692</guid>
+    <link>https://www.themoviedb.org/movie/603692</link>
+  </item>
+
+  <item>
+    <title>Gato de Botas 2: O Último Pedido (2022)</title>
+    <guid isPermaLink="false">tmdb:315162</guid>
+    <link>https://www.themoviedb.org/movie/315162</link>
+  </item>
+
+  <item>
+    <title>Homem-Aranha: No Aranhaverso (2018)</title>
+    <guid isPermaLink="false">tmdb:324857</guid>
+    <link>https://www.themoviedb.org/movie/324857</link>
+  </item>
+
+  <item>
+    <title>M3GAN (2022)</title>
+    <guid isPermaLink="false">tmdb:536554</guid>
+    <link>https://www.themoviedb.org/movie/536554</link>
+  </item>
+
+  <item>
+    <title>Pânico VI (2023)</title>
+    <guid isPermaLink="false">tmdb:934433</guid>
+    <link>https://www.themoviedb.org/movie/934433</link>
+  </item>
+
+  <item>
+    <title>Homem-Formiga e a Vespa: Quantumania (2023)</title>
+    <guid isPermaLink="false">tmdb:640146</guid>
+    <link>https://www.themoviedb.org/movie/640146</link>
+  </item>
+
+  <item>
+    <title>O Urso do Pó Branco (2023)</title>
+    <guid isPermaLink="false">tmdb:804150</guid>
+    <link>https://www.themoviedb.org/movie/804150</link>
+  </item>
+
+  <item>
+    <title>Adão Negro (2022)</title>
+    <guid isPermaLink="false">tmdb:436270</guid>
+    <link>https://www.themoviedb.org/movie/436270</link>
+  </item>
+
+  <item>
+    <title>Mistério em Paris (2023)</title>
+    <guid isPermaLink="false">tmdb:638974</guid>
+    <link>https://www.themoviedb.org/movie/638974</link>
+  </item>
+
+  <item>
+    <title>Peter Pan e Wendy (2023)</title>
+    <guid isPermaLink="false">tmdb:420808</guid>
+    <link>https://www.themoviedb.org/movie/420808</link>
+  </item>
+
+  <item>
+    <title>The Last Kingdom: Sete Reis Devem Morrer (2023)</title>
+    <guid isPermaLink="false">tmdb:948713</guid>
+    <link>https://www.themoviedb.org/movie/948713</link>
+  </item>
+
+  <item>
+    <title>Cidade de Deus (2002)</title>
+    <guid isPermaLink="false">tmdb:598</guid>
+    <link>https://www.themoviedb.org/movie/598</link>
+  </item>
+
+  <item>
+    <title>O Auto da Compadecida (2000)</title>
+    <guid isPermaLink="false">tmdb:40096</guid>
+    <link>https://www.themoviedb.org/movie/40096</link>
+  </item>
+
+  <item>
+    <title>Clube da Luta (1999)</title>
+    <guid isPermaLink="false">tmdb:550</guid>
+    <link>https://www.themoviedb.org/movie/550</link>
+  </item>
+
+  <item>
+    <title>A Vida é Bela (1997)</title>
+    <guid isPermaLink="false">tmdb:637</guid>
+    <link>https://www.themoviedb.org/movie/637</link>
+  </item>
+
+  <item>
+    <title>Cinema Paradiso (1988)</title>
+    <guid isPermaLink="false">tmdb:11216</guid>
+    <link>https://www.themoviedb.org/movie/11216</link>
+  </item>
+
+  <item>
+    <title>Interestelar (2014)</title>
+    <guid isPermaLink="false">tmdb:157336</guid>
+    <link>https://www.themoviedb.org/movie/157336</link>
+  </item>
+
+  <item>
+    <title>Psicose (1960)</title>
+    <guid isPermaLink="false">tmdb:539</guid>
+    <link>https://www.themoviedb.org/movie/539</link>
+  </item>
+
+  <item>
+    <title>Um Estranho no Ninho (1975)</title>
+    <guid isPermaLink="false">tmdb:510</guid>
+    <link>https://www.themoviedb.org/movie/510</link>
+  </item>
+
+  <item>
+    <title>Era Uma Vez na América (1984)</title>
+    <guid isPermaLink="false">tmdb:311</guid>
+    <link>https://www.themoviedb.org/movie/311</link>
+  </item>
+
+  <item>
+    <title>O Senhor dos Anéis: A Sociedade do Anel (2001)</title>
+    <guid isPermaLink="false">tmdb:120</guid>
+    <link>https://www.themoviedb.org/movie/120</link>
+  </item>
+
+  <item>
+    <title>O Senhor dos Anéis: As Duas Torres (2002)</title>
+    <guid isPermaLink="false">tmdb:121</guid>
+    <link>https://www.themoviedb.org/movie/121</link>
+  </item>
+
+  <item>
+    <title>O Castelo Animado (2004)</title>
+    <guid isPermaLink="false">tmdb:4935</guid>
+    <link>https://www.themoviedb.org/movie/4935</link>
+  </item>
+
+  <item>
+    <title>Kill Boksoon (2023)</title>
+    <guid isPermaLink="false">tmdb:849869</guid>
+    <link>https://www.themoviedb.org/movie/849869</link>
+  </item>
+
+  <item>
+    <title>Múmias e Anéis (2023)</title>
+    <guid isPermaLink="false">tmdb:816904</guid>
+    <link>https://www.themoviedb.org/movie/816904</link>
+  </item>
+
+  <item>
+    <title>Ursinho Pooh: Sangue e Mel (2023)</title>
+    <guid isPermaLink="false">tmdb:980078</guid>
+    <link>https://www.themoviedb.org/movie/980078</link>
+  </item>
+
+  <item>
+    <title>Chupa: A Criatura Mítica (2023)</title>
+    <guid isPermaLink="false">tmdb:736790</guid>
+    <link>https://www.themoviedb.org/movie/736790</link>
+  </item>
+
+  <item>
+    <title>Agente Infiltrado (2023)</title>
+    <guid isPermaLink="false">tmdb:1102776</guid>
+    <link>https://www.themoviedb.org/movie/1102776</link>
+  </item>
+
+  <item>
+    <title>A Menina da Comunhão (2023)</title>
+    <guid isPermaLink="false">tmdb:1008005</guid>
+    <link>https://www.themoviedb.org/movie/1008005</link>
+  </item>
+
+  <item>
+    <title>A Conspiração do Diabo (2023)</title>
+    <guid isPermaLink="false">tmdb:296271</guid>
+    <link>https://www.themoviedb.org/movie/296271</link>
+  </item>
+
+  <item>
+    <title>Gangues de Lagos (2023)</title>
+    <guid isPermaLink="false">tmdb:1104040</guid>
+    <link>https://www.themoviedb.org/movie/1104040</link>
+  </item>
+
+  <item>
+    <title>O Parque (2023)</title>
+    <guid isPermaLink="false">tmdb:1084225</guid>
+    <link>https://www.themoviedb.org/movie/1084225</link>
+  </item>
+
+  <item>
+    <title>O Ancião (2023)</title>
+    <guid isPermaLink="false">tmdb:994128</guid>
+    <link>https://www.themoviedb.org/movie/994128</link>
+  </item>
+
+  <item>
+    <title>A Vingança do Estripador (2023)</title>
+    <guid isPermaLink="false">tmdb:1105014</guid>
+    <link>https://www.themoviedb.org/movie/1105014</link>
+  </item>
+
+  <!-- 250 filmes adicionados (ação / guerra / anime) -->
+  <item>
+    <title>Saving Private Ryan (1998)</title>
+    <guid isPermaLink="false">seed:war-001</guid>
+    <link>https://www.themoviedb.org/search?query=Saving%20Private%20Ryan%201998</link>
+  </item>
+  <item>
+    <title>Apocalypse Now (1979)</title>
+    <guid isPermaLink="false">seed:war-002</guid>
+    <link>https://www.themoviedb.org/search?query=Apocalypse%20Now%201979</link>
+  </item>
+  <item>
+    <title>Full Metal Jacket (1987)</title>
+    <guid isPermaLink="false">seed:war-003</guid>
+    <link>https://www.themoviedb.org/search?query=Full%20Metal%20Jacket%201987</link>
+  </item>
+  <item>
+    <title>The Thin Red Line (1998)</title>
+    <guid isPermaLink="false">seed:war-004</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Thin%20Red%20Line%201998</link>
+  </item>
+  <item>
+    <title>Black Hawk Down (2001)</title>
+    <guid isPermaLink="false">seed:war-005</guid>
+    <link>https://www.themoviedb.org/search?query=Black%20Hawk%20Down%202001</link>
+  </item>
+  <item>
+    <title>1917 (2019)</title>
+    <guid isPermaLink="false">seed:war-006</guid>
+    <link>https://www.themoviedb.org/search?query=1917%202019</link>
+  </item>
+  <item>
+    <title>Dunkirk (2017)</title>
+    <guid isPermaLink="false">seed:war-007</guid>
+    <link>https://www.themoviedb.org/search?query=Dunkirk%202017</link>
+  </item>
+  <item>
+    <title>Hacksaw Ridge (2016)</title>
+    <guid isPermaLink="false">seed:war-008</guid>
+    <link>https://www.themoviedb.org/search?query=Hacksaw%20Ridge%202016</link>
+  </item>
+  <item>
+    <title>Fury (2014)</title>
+    <guid isPermaLink="false">seed:war-009</guid>
+    <link>https://www.themoviedb.org/search?query=Fury%202014</link>
+  </item>
+  <item>
+    <title>The Hurt Locker (2008)</title>
+    <guid isPermaLink="false">seed:war-010</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Hurt%20Locker%202008</link>
+  </item>
+  <item>
+    <title>Zero Dark Thirty (2012)</title>
+    <guid isPermaLink="false">seed:war-011</guid>
+    <link>https://www.themoviedb.org/search?query=Zero%20Dark%20Thirty%202012</link>
+  </item>
+  <item>
+    <title>American Sniper (2014)</title>
+    <guid isPermaLink="false">seed:war-012</guid>
+    <link>https://www.themoviedb.org/search?query=American%20Sniper%202014</link>
+  </item>
+  <item>
+    <title>Enemy at the Gates (2001)</title>
+    <guid isPermaLink="false">seed:war-013</guid>
+    <link>https://www.themoviedb.org/search?query=Enemy%20at%20the%20Gates%202001</link>
+  </item>
+  <item>
+    <title>Letters from Iwo Jima (2006)</title>
+    <guid isPermaLink="false">seed:war-014</guid>
+    <link>https://www.themoviedb.org/search?query=Letters%20from%20Iwo%20Jima%202006</link>
+  </item>
+  <item>
+    <title>Flags of Our Fathers (2006)</title>
+    <guid isPermaLink="false">seed:war-015</guid>
+    <link>https://www.themoviedb.org/search?query=Flags%20of%20Our%20Fathers%202006</link>
+  </item>
+  <item>
+    <title>Das Boot (1981)</title>
+    <guid isPermaLink="false">seed:war-016</guid>
+    <link>https://www.themoviedb.org/search?query=Das%20Boot%201981</link>
+  </item>
+  <item>
+    <title>Come and See (1985)</title>
+    <guid isPermaLink="false">seed:war-017</guid>
+    <link>https://www.themoviedb.org/search?query=Come%20and%20See%201985</link>
+  </item>
+  <item>
+    <title>The Bridge on the River Kwai (1957)</title>
+    <guid isPermaLink="false">seed:war-018</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Bridge%20on%20the%20River%20Kwai%201957</link>
+  </item>
+  <item>
+    <title>The Great Escape (1963)</title>
+    <guid isPermaLink="false">seed:war-019</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Great%20Escape%201963</link>
+  </item>
+  <item>
+    <title>The Longest Day (1962)</title>
+    <guid isPermaLink="false">seed:war-020</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Longest%20Day%201962</link>
+  </item>
+  <item>
+    <title>Patton (1970)</title>
+    <guid isPermaLink="false">seed:war-021</guid>
+    <link>https://www.themoviedb.org/search?query=Patton%201970</link>
+  </item>
+  <item>
+    <title>Tora! Tora! Tora! (1970)</title>
+    <guid isPermaLink="false">seed:war-022</guid>
+    <link>https://www.themoviedb.org/search?query=Tora%20Tora%20Tora%201970</link>
+  </item>
+  <item>
+    <title>A Bridge Too Far (1977)</title>
+    <guid isPermaLink="false">seed:war-023</guid>
+    <link>https://www.themoviedb.org/search?query=A%20Bridge%20Too%20Far%201977</link>
+  </item>
+  <item>
+    <title>The Dirty Dozen (1967)</title>
+    <guid isPermaLink="false">seed:war-024</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Dirty%20Dozen%201967</link>
+  </item>
+  <item>
+    <title>All Quiet on the Western Front (1930)</title>
+    <guid isPermaLink="false">seed:war-025</guid>
+    <link>https://www.themoviedb.org/search?query=All%20Quiet%20on%20the%20Western%20Front%201930</link>
+  </item>
+  <item>
+    <title>All Quiet on the Western Front (2022)</title>
+    <guid isPermaLink="false">seed:war-026</guid>
+    <link>https://www.themoviedb.org/search?query=All%20Quiet%20on%20the%20Western%20Front%202022</link>
+  </item>
+  <item>
+    <title>Jojo Rabbit (2019)</title>
+    <guid isPermaLink="false">seed:war-027</guid>
+    <link>https://www.themoviedb.org/search?query=Jojo%20Rabbit%202019</link>
+  </item>
+  <item>
+    <title>Inglourious Basterds (2009)</title>
+    <guid isPermaLink="false">seed:war-028</guid>
+    <link>https://www.themoviedb.org/search?query=Inglourious%20Basterds%202009</link>
+  </item>
+  <item>
+    <title>The Pianist (2002)</title>
+    <guid isPermaLink="false">seed:war-029</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Pianist%202002</link>
+  </item>
+  <item>
+    <title>Schindler's List (1993)</title>
+    <guid isPermaLink="false">seed:war-030</guid>
+    <link>https://www.themoviedb.org/search?query=Schindler%27s%20List%201993</link>
+  </item>
+  <item>
+    <title>Downfall (2004)</title>
+    <guid isPermaLink="false">seed:war-031</guid>
+    <link>https://www.themoviedb.org/search?query=Downfall%202004</link>
+  </item>
+  <item>
+    <title>Hotel Rwanda (2004)</title>
+    <guid isPermaLink="false">seed:war-032</guid>
+    <link>https://www.themoviedb.org/search?query=Hotel%20Rwanda%202004</link>
+  </item>
+  <item>
+    <title>The Imitation Game (2014)</title>
+    <guid isPermaLink="false">seed:war-033</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Imitation%20Game%202014</link>
+  </item>
+  <item>
+    <title>Lawrence of Arabia (1962)</title>
+    <guid isPermaLink="false">seed:war-034</guid>
+    <link>https://www.themoviedb.org/search?query=Lawrence%20of%20Arabia%201962</link>
+  </item>
+  <item>
+    <title>The Deer Hunter (1978)</title>
+    <guid isPermaLink="false">seed:war-035</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Deer%20Hunter%201978</link>
+  </item>
+  <item>
+    <title>Casualties of War (1989)</title>
+    <guid isPermaLink="false">seed:war-036</guid>
+    <link>https://www.themoviedb.org/search?query=Casualties%20of%20War%201989</link>
+  </item>
+  <item>
+    <title>The Killing Fields (1984)</title>
+    <guid isPermaLink="false">seed:war-037</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Killing%20Fields%201984</link>
+  </item>
+  <item>
+    <title>Gallipoli (1981)</title>
+    <guid isPermaLink="false">seed:war-038</guid>
+    <link>https://www.themoviedb.org/search?query=Gallipoli%201981</link>
+  </item>
+  <item>
+    <title>The Battle of Algiers (1966)</title>
+    <guid isPermaLink="false">seed:war-039</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Battle%20of%20Algiers%201966</link>
+  </item>
+  <item>
+    <title>City of Life and Death (2009)</title>
+    <guid isPermaLink="false">seed:war-040</guid>
+    <link>https://www.themoviedb.org/search?query=City%20of%20Life%20and%20Death%202009</link>
+  </item>
+  <item>
+    <title>Tae Guk Gi: The Brotherhood of War (2004)</title>
+    <guid isPermaLink="false">seed:war-041</guid>
+    <link>https://www.themoviedb.org/search?query=Tae%20Guk%20Gi%202004</link>
+  </item>
+  <item>
+    <title>We Were Soldiers (2002)</title>
+    <guid isPermaLink="false">seed:war-042</guid>
+    <link>https://www.themoviedb.org/search?query=We%20Were%20Soldiers%202002</link>
+  </item>
+  <item>
+    <title>Lone Survivor (2013)</title>
+    <guid isPermaLink="false">seed:war-043</guid>
+    <link>https://www.themoviedb.org/search?query=Lone%20Survivor%202013</link>
+  </item>
+  <item>
+    <title>13 Hours: The Secret Soldiers of Benghazi (2016)</title>
+    <guid isPermaLink="false">seed:war-044</guid>
+    <link>https://www.themoviedb.org/search?query=13%20Hours%202016</link>
+  </item>
+  <item>
+    <title>Midway (2019)</title>
+    <guid isPermaLink="false">seed:war-045</guid>
+    <link>https://www.themoviedb.org/search?query=Midway%202019</link>
+  </item>
+  <item>
+    <title>Pearl Harbor (2001)</title>
+    <guid isPermaLink="false">seed:war-046</guid>
+    <link>https://www.themoviedb.org/search?query=Pearl%20Harbor%202001</link>
+  </item>
+  <item>
+    <title>The Great Raid (2005)</title>
+    <guid isPermaLink="false">seed:war-047</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Great%20Raid%202005</link>
+  </item>
+  <item>
+    <title>The Siege of Jadotville (2016)</title>
+    <guid isPermaLink="false">seed:war-048</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Siege%20of%20Jadotville%202016</link>
+  </item>
+  <item>
+    <title>The Outpost (2020)</title>
+    <guid isPermaLink="false">seed:war-049</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Outpost%202020</link>
+  </item>
+  <item>
+    <title>Jarhead (2005)</title>
+    <guid isPermaLink="false">seed:war-050</guid>
+    <link>https://www.themoviedb.org/search?query=Jarhead%202005</link>
+  </item>
+
+  <!-- AÇÃO (100) -->
+  <item>
+    <title>Die Hard (1988)</title>
+    <guid isPermaLink="false">seed:action-001</guid>
+    <link>https://www.themoviedb.org/search?query=Die%20Hard%201988</link>
+  </item>
+  <item>
+    <title>Die Hard 2 (1990)</title>
+    <guid isPermaLink="false">seed:action-002</guid>
+    <link>https://www.themoviedb.org/search?query=Die%20Hard%202%201990</link>
+  </item>
+  <item>
+    <title>Die Hard with a Vengeance (1995)</title>
+    <guid isPermaLink="false">seed:action-003</guid>
+    <link>https://www.themoviedb.org/search?query=Die%20Hard%20with%20a%20Vengeance%201995</link>
+  </item>
+  <item>
+    <title>Mad Max (1979)</title>
+    <guid isPermaLink="false">seed:action-004</guid>
+    <link>https://www.themoviedb.org/search?query=Mad%20Max%201979</link>
+  </item>
+  <item>
+    <title>Mad Max 2 (1981)</title>
+    <guid isPermaLink="false">seed:action-005</guid>
+    <link>https://www.themoviedb.org/search?query=Mad%20Max%202%201981</link>
+  </item>
+  <item>
+    <title>Mad Max Beyond Thunderdome (1985)</title>
+    <guid isPermaLink="false">seed:action-006</guid>
+    <link>https://www.themoviedb.org/search?query=Mad%20Max%20Beyond%20Thunderdome%201985</link>
+  </item>
+  <item>
+    <title>Mad Max: Fury Road (2015)</title>
+    <guid isPermaLink="false">seed:action-007</guid>
+    <link>https://www.themoviedb.org/search?query=Mad%20Max%20Fury%20Road%202015</link>
+  </item>
+  <item>
+    <title>The Matrix (1999)</title>
+    <guid isPermaLink="false">seed:action-008</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Matrix%201999</link>
+  </item>
+  <item>
+    <title>The Matrix Reloaded (2003)</title>
+    <guid isPermaLink="false">seed:action-009</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Matrix%20Reloaded%202003</link>
+  </item>
+  <item>
+    <title>The Matrix Revolutions (2003)</title>
+    <guid isPermaLink="false">seed:action-010</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Matrix%20Revolutions%202003</link>
+  </item>
+  <item>
+    <title>John Wick (2014)</title>
+    <guid isPermaLink="false">seed:action-011</guid>
+    <link>https://www.themoviedb.org/search?query=John%20Wick%202014</link>
+  </item>
+  <item>
+    <title>John Wick: Chapter 2 (2017)</title>
+    <guid isPermaLink="false">seed:action-012</guid>
+    <link>https://www.themoviedb.org/search?query=John%20Wick%20Chapter%202%202017</link>
+  </item>
+  <item>
+    <title>John Wick: Chapter 3 - Parabellum (2019)</title>
+    <guid isPermaLink="false">seed:action-013</guid>
+    <link>https://www.themoviedb.org/search?query=John%20Wick%20Chapter%203%202019</link>
+  </item>
+  <item>
+    <title>Mission: Impossible (1996)</title>
+    <guid isPermaLink="false">seed:action-014</guid>
+    <link>https://www.themoviedb.org/search?query=Mission%20Impossible%201996</link>
+  </item>
+  <item>
+    <title>Mission: Impossible 2 (2000)</title>
+    <guid isPermaLink="false">seed:action-015</guid>
+    <link>https://www.themoviedb.org/search?query=Mission%20Impossible%202%202000</link>
+  </item>
+  <item>
+    <title>Mission: Impossible III (2006)</title>
+    <guid isPermaLink="false">seed:action-016</guid>
+    <link>https://www.themoviedb.org/search?query=Mission%20Impossible%20III%202006</link>
+  </item>
+  <item>
+    <title>Mission: Impossible - Ghost Protocol (2011)</title>
+    <guid isPermaLink="false">seed:action-017</guid>
+    <link>https://www.themoviedb.org/search?query=Mission%20Impossible%20Ghost%20Protocol%202011</link>
+  </item>
+  <item>
+    <title>Mission: Impossible - Rogue Nation (2015)</title>
+    <guid isPermaLink="false">seed:action-018</guid>
+    <link>https://www.themoviedb.org/search?query=Mission%20Impossible%20Rogue%20Nation%202015</link>
+  </item>
+  <item>
+    <title>Mission: Impossible - Fallout (2018)</title>
+    <guid isPermaLink="false">seed:action-019</guid>
+    <link>https://www.themoviedb.org/search?query=Mission%20Impossible%20Fallout%202018</link>
+  </item>
+  <item>
+    <title>The Bourne Identity (2002)</title>
+    <guid isPermaLink="false">seed:action-020</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Bourne%20Identity%202002</link>
+  </item>
+  <item>
+    <title>The Bourne Supremacy (2004)</title>
+    <guid isPermaLink="false">seed:action-021</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Bourne%20Supremacy%202004</link>
+  </item>
+  <item>
+    <title>The Bourne Ultimatum (2007)</title>
+    <guid isPermaLink="false">seed:action-022</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Bourne%20Ultimatum%202007</link>
+  </item>
+  <item>
+    <title>Casino Royale (2006)</title>
+    <guid isPermaLink="false">seed:action-023</guid>
+    <link>https://www.themoviedb.org/search?query=Casino%20Royale%202006</link>
+  </item>
+  <item>
+    <title>Skyfall (2012)</title>
+    <guid isPermaLink="false">seed:action-024</guid>
+    <link>https://www.themoviedb.org/search?query=Skyfall%202012</link>
+  </item>
+  <item>
+    <title>No Time to Die (2021)</title>
+    <guid isPermaLink="false">seed:action-025</guid>
+    <link>https://www.themoviedb.org/search?query=No%20Time%20to%20Die%202021</link>
+  </item>
+  <item>
+    <title>Terminator (1984)</title>
+    <guid isPermaLink="false">seed:action-026</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Terminator%201984</link>
+  </item>
+  <item>
+    <title>Terminator 2: Judgment Day (1991)</title>
+    <guid isPermaLink="false">seed:action-027</guid>
+    <link>https://www.themoviedb.org/search?query=Terminator%202%201991</link>
+  </item>
+  <item>
+    <title>Terminator 3: Rise of the Machines (2003)</title>
+    <guid isPermaLink="false">seed:action-028</guid>
+    <link>https://www.themoviedb.org/search?query=Terminator%203%202003</link>
+  </item>
+  <item>
+    <title>Gladiator (2000)</title>
+    <guid isPermaLink="false">seed:action-029</guid>
+    <link>https://www.themoviedb.org/search?query=Gladiator%202000</link>
+  </item>
+  <item>
+    <title>Braveheart (1995)</title>
+    <guid isPermaLink="false">seed:action-030</guid>
+    <link>https://www.themoviedb.org/search?query=Braveheart%201995</link>
+  </item>
+  <item>
+    <title>Heat (1995)</title>
+    <guid isPermaLink="false">seed:action-031</guid>
+    <link>https://www.themoviedb.org/search?query=Heat%201995</link>
+  </item>
+  <item>
+    <title>The Rock (1996)</title>
+    <guid isPermaLink="false">seed:action-032</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Rock%201996</link>
+  </item>
+  <item>
+    <title>Con Air (1997)</title>
+    <guid isPermaLink="false">seed:action-033</guid>
+    <link>https://www.themoviedb.org/search?query=Con%20Air%201997</link>
+  </item>
+  <item>
+    <title>Face/Off (1997)</title>
+    <guid isPermaLink="false">seed:action-034</guid>
+    <link>https://www.themoviedb.org/search?query=Face%20Off%201997</link>
+  </item>
+  <item>
+    <title>Speed (1994)</title>
+    <guid isPermaLink="false">seed:action-035</guid>
+    <link>https://www.themoviedb.org/search?query=Speed%201994</link>
+  </item>
+  <item>
+    <title>Point Break (1991)</title>
+    <guid isPermaLink="false">seed:action-036</guid>
+    <link>https://www.themoviedb.org/search?query=Point%20Break%201991</link>
+  </item>
+  <item>
+    <title>The Equalizer (2014)</title>
+    <guid isPermaLink="false">seed:action-037</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Equalizer%202014</link>
+  </item>
+  <item>
+    <title>The Equalizer 2 (2018)</title>
+    <guid isPermaLink="false">seed:action-038</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Equalizer%202%202018</link>
+  </item>
+  <item>
+    <title>Man on Fire (2004)</title>
+    <guid isPermaLink="false">seed:action-039</guid>
+    <link>https://www.themoviedb.org/search?query=Man%20on%20Fire%202004</link>
+  </item>
+  <item>
+    <title>Training Day (2001)</title>
+    <guid isPermaLink="false">seed:action-040</guid>
+    <link>https://www.themoviedb.org/search?query=Training%20Day%202001</link>
+  </item>
+
+  <item>
+    <title>Taken (2008)</title>
+    <guid isPermaLink="false">seed:action-041</guid>
+    <link>https://www.themoviedb.org/search?query=Taken%202008</link>
+  </item>
+  <item>
+    <title>Taken 2 (2012)</title>
+    <guid isPermaLink="false">seed:action-042</guid>
+    <link>https://www.themoviedb.org/search?query=Taken%202%202012</link>
+  </item>
+  <item>
+    <title>Taken 3 (2014)</title>
+    <guid isPermaLink="false">seed:action-043</guid>
+    <link>https://www.themoviedb.org/search?query=Taken%203%202014</link>
+  </item>
+  <item>
+    <title>The Raid: Redemption (2011)</title>
+    <guid isPermaLink="false">seed:action-044</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Raid%20Redemption%202011</link>
+  </item>
+  <item>
+    <title>The Raid 2 (2014)</title>
+    <guid isPermaLink="false">seed:action-045</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Raid%202%202014</link>
+  </item>
+  <item>
+    <title>Dredd (2012)</title>
+    <guid isPermaLink="false">seed:action-046</guid>
+    <link>https://www.themoviedb.org/search?query=Dredd%202012</link>
+  </item>
+  <item>
+    <title>Kingsman: The Secret Service (2014)</title>
+    <guid isPermaLink="false">seed:action-047</guid>
+    <link>https://www.themoviedb.org/search?query=Kingsman%20The%20Secret%20Service%202014</link>
+  </item>
+  <item>
+    <title>Kingsman: The Golden Circle (2017)</title>
+    <guid isPermaLink="false">seed:action-048</guid>
+    <link>https://www.themoviedb.org/search?query=Kingsman%20The%20Golden%20Circle%202017</link>
+  </item>
+  <item>
+    <title>The Transporter (2002)</title>
+    <guid isPermaLink="false">seed:action-049</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Transporter%202002</link>
+  </item>
+  <item>
+    <title>Transporter 2 (2005)</title>
+    <guid isPermaLink="false">seed:action-050</guid>
+    <link>https://www.themoviedb.org/search?query=Transporter%202%202005</link>
+  </item>
+  <item>
+    <title>Transporter 3 (2008)</title>
+    <guid isPermaLink="false">seed:action-051</guid>
+    <link>https://www.themoviedb.org/search?query=Transporter%203%202008</link>
+  </item>
+  <item>
+    <title>Crank (2006)</title>
+    <guid isPermaLink="false">seed:action-052</guid>
+    <link>https://www.themoviedb.org/search?query=Crank%202006</link>
+  </item>
+  <item>
+    <title>Crank: High Voltage (2009)</title>
+    <guid isPermaLink="false">seed:action-053</guid>
+    <link>https://www.themoviedb.org/search?query=Crank%20High%20Voltage%202009</link>
+  </item>
+  <item>
+    <title>The Mechanic (2011)</title>
+    <guid isPermaLink="false">seed:action-054</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Mechanic%202011</link>
+  </item>
+  <item>
+    <title>Mechanic: Resurrection (2016)</title>
+    <guid isPermaLink="false">seed:action-055</guid>
+    <link>https://www.themoviedb.org/search?query=Mechanic%20Resurrection%202016</link>
+  </item>
+  <item>
+    <title>The Expendables (2010)</title>
+    <guid isPermaLink="false">seed:action-056</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Expendables%202010</link>
+  </item>
+  <item>
+    <title>The Expendables 2 (2012)</title>
+    <guid isPermaLink="false">seed:action-057</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Expendables%202%202012</link>
+  </item>
+  <item>
+    <title>The Expendables 3 (2014)</title>
+    <guid isPermaLink="false">seed:action-058</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Expendables%203%202014</link>
+  </item>
+  <item>
+    <title>Edge of Tomorrow (2014)</title>
+    <guid isPermaLink="false">seed:action-059</guid>
+    <link>https://www.themoviedb.org/search?query=Edge%20of%20Tomorrow%202014</link>
+  </item>
+  <item>
+    <title>Top Gun (1986)</title>
+    <guid isPermaLink="false">seed:action-060</guid>
+    <link>https://www.themoviedb.org/search?query=Top%20Gun%201986</link>
+  </item>
+  <item>
+    <title>Top Gun: Maverick (2022)</title>
+    <guid isPermaLink="false">seed:action-061</guid>
+    <link>https://www.themoviedb.org/search?query=Top%20Gun%20Maverick%202022</link>
+  </item>
+  <item>
+    <title>First Blood (1982)</title>
+    <guid isPermaLink="false">seed:action-062</guid>
+    <link>https://www.themoviedb.org/search?query=First%20Blood%201982</link>
+  </item>
+  <item>
+    <title>Rambo: First Blood Part II (1985)</title>
+    <guid isPermaLink="false">seed:action-063</guid>
+    <link>https://www.themoviedb.org/search?query=Rambo%20First%20Blood%20Part%20II%201985</link>
+  </item>
+  <item>
+    <title>Rambo III (1988)</title>
+    <guid isPermaLink="false">seed:action-064</guid>
+    <link>https://www.themoviedb.org/search?query=Rambo%20III%201988</link>
+  </item>
+  <item>
+    <title>Rambo (2008)</title>
+    <guid isPermaLink="false">seed:action-065</guid>
+    <link>https://www.themoviedb.org/search?query=Rambo%202008</link>
+  </item>
+  <item>
+    <title>Rambo: Last Blood (2019)</title>
+    <guid isPermaLink="false">seed:action-066</guid>
+    <link>https://www.themoviedb.org/search?query=Rambo%20Last%20Blood%202019</link>
+  </item>
+  <item>
+    <title>Predator (1987)</title>
+    <guid isPermaLink="false">seed:action-067</guid>
+    <link>https://www.themoviedb.org/search?query=Predator%201987</link>
+  </item>
+  <item>
+    <title>Predator 2 (1990)</title>
+    <guid isPermaLink="false">seed:action-068</guid>
+    <link>https://www.themoviedb.org/search?query=Predator%202%201990</link>
+  </item>
+  <item>
+    <title>Predators (2010)</title>
+    <guid isPermaLink="false">seed:action-069</guid>
+    <link>https://www.themoviedb.org/search?query=Predators%202010</link>
+  </item>
+  <item>
+    <title>The Predator (2018)</title>
+    <guid isPermaLink="false">seed:action-070</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Predator%202018</link>
+  </item>
+  <item>
+    <title>RoboCop (1987)</title>
+    <guid isPermaLink="false">seed:action-071</guid>
+    <link>https://www.themoviedb.org/search?query=RoboCop%201987</link>
+  </item>
+  <item>
+    <title>Total Recall (1990)</title>
+    <guid isPermaLink="false">seed:action-072</guid>
+    <link>https://www.themoviedb.org/search?query=Total%20Recall%201990</link>
+  </item>
+  <item>
+    <title>Commando (1985)</title>
+    <guid isPermaLink="false">seed:action-073</guid>
+    <link>https://www.themoviedb.org/search?query=Commando%201985</link>
+  </item>
+  <item>
+    <title>Lethal Weapon (1987)</title>
+    <guid isPermaLink="false">seed:action-074</guid>
+    <link>https://www.themoviedb.org/search?query=Lethal%20Weapon%201987</link>
+  </item>
+  <item>
+    <title>Lethal Weapon 2 (1989)</title>
+    <guid isPermaLink="false">seed:action-075</guid>
+    <link>https://www.themoviedb.org/search?query=Lethal%20Weapon%202%201989</link>
+  </item>
+  <item>
+    <title>Lethal Weapon 3 (1992)</title>
+    <guid isPermaLink="false">seed:action-076</guid>
+    <link>https://www.themoviedb.org/search?query=Lethal%20Weapon%203%201992</link>
+  </item>
+  <item>
+    <title>Lethal Weapon 4 (1998)</title>
+    <guid isPermaLink="false">seed:action-077</guid>
+    <link>https://www.themoviedb.org/search?query=Lethal%20Weapon%204%201998</link>
+  </item>
+  <item>
+    <title>The Fugitive (1993)</title>
+    <guid isPermaLink="false">seed:action-078</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Fugitive%201993</link>
+  </item>
+  <item>
+    <title>True Lies (1994)</title>
+    <guid isPermaLink="false">seed:action-079</guid>
+    <link>https://www.themoviedb.org/search?query=True%20Lies%201994</link>
+  </item>
+  <item>
+    <title>Bad Boys (1995)</title>
+    <guid isPermaLink="false">seed:action-080</guid>
+    <link>https://www.themoviedb.org/search?query=Bad%20Boys%201995</link>
+  </item>
+  <item>
+    <title>Bad Boys II (2003)</title>
+    <guid isPermaLink="false">seed:action-081</guid>
+    <link>https://www.themoviedb.org/search?query=Bad%20Boys%20II%202003</link>
+  </item>
+  <item>
+    <title>Bad Boys for Life (2020)</title>
+    <guid isPermaLink="false">seed:action-082</guid>
+    <link>https://www.themoviedb.org/search?query=Bad%20Boys%20for%20Life%202020</link>
+  </item>
+  <item>
+    <title>Bad Boys: Ride or Die (2024)</title>
+    <guid isPermaLink="false">seed:action-083</guid>
+    <link>https://www.themoviedb.org/search?query=Bad%20Boys%20Ride%20or%20Die%202024</link>
+  </item>
+  <item>
+    <title>The Fast and the Furious (2001)</title>
+    <guid isPermaLink="false">seed:action-084</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Fast%20and%20the%20Furious%202001</link>
+  </item>
+  <item>
+    <title>2 Fast 2 Furious (2003)</title>
+    <guid isPermaLink="false">seed:action-085</guid>
+    <link>https://www.themoviedb.org/search?query=2%20Fast%202%20Furious%202003</link>
+  </item>
+  <item>
+    <title>The Fast and the Furious: Tokyo Drift (2006)</title>
+    <guid isPermaLink="false">seed:action-086</guid>
+    <link>https://www.themoviedb.org/search?query=Tokyo%20Drift%202006</link>
+  </item>
+  <item>
+    <title>Fast &amp; Furious (2009)</title>
+    <guid isPermaLink="false">seed:action-087</guid>
+    <link>https://www.themoviedb.org/search?query=Fast%20and%20Furious%202009</link>
+  </item>
+  <item>
+    <title>Fast Five (2011)</title>
+    <guid isPermaLink="false">seed:action-088</guid>
+    <link>https://www.themoviedb.org/search?query=Fast%20Five%202011</link>
+  </item>
+  <item>
+    <title>Fast &amp; Furious 6 (2013)</title>
+    <guid isPermaLink="false">seed:action-089</guid>
+    <link>https://www.themoviedb.org/search?query=Fast%20and%20Furious%206%202013</link>
+  </item>
+  <item>
+    <title>Furious 7 (2015)</title>
+    <guid isPermaLink="false">seed:action-090</guid>
+    <link>https://www.themoviedb.org/search?query=Furious%207%202015</link>
+  </item>
+  <item>
+    <title>The Fate of the Furious (2017)</title>
+    <guid isPermaLink="false">seed:action-091</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Fate%20of%20the%20Furious%202017</link>
+  </item>
+  <item>
+    <title>F9 (2021)</title>
+    <guid isPermaLink="false">seed:action-092</guid>
+    <link>https://www.themoviedb.org/search?query=F9%202021</link>
+  </item>
+  <item>
+    <title>Fast X (2023)</title>
+    <guid isPermaLink="false">seed:action-093</guid>
+    <link>https://www.themoviedb.org/search?query=Fast%20X%202023</link>
+  </item>
+  <item>
+    <title>Snatch (2000)</title>
+    <guid isPermaLink="false">seed:action-094</guid>
+    <link>https://www.themoviedb.org/search?query=Snatch%202000</link>
+  </item>
+  <item>
+    <title>The Italian Job (2003)</title>
+    <guid isPermaLink="false">seed:action-095</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Italian%20Job%202003</link>
+  </item>
+  <item>
+    <title>The Magnificent Seven (2016)</title>
+    <guid isPermaLink="false">seed:action-096</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Magnificent%20Seven%202016</link>
+  </item>
+  <item>
+    <title>Kill Bill: Vol. 1 (2003)</title>
+    <guid isPermaLink="false">seed:action-097</guid>
+    <link>https://www.themoviedb.org/search?query=Kill%20Bill%20Vol%201%202003</link>
+  </item>
+  <item>
+    <title>Kill Bill: Vol. 2 (2004)</title>
+    <guid isPermaLink="false">seed:action-098</guid>
+    <link>https://www.themoviedb.org/search?query=Kill%20Bill%20Vol%202%202004</link>
+  </item>
+  <item>
+    <title>Sicario (2015)</title>
+    <guid isPermaLink="false">seed:action-099</guid>
+    <link>https://www.themoviedb.org/search?query=Sicario%202015</link>
+  </item>
+  <item>
+    <title>Sicario: Day of the Soldado (2018)</title>
+    <guid isPermaLink="false">seed:action-100</guid>
+    <link>https://www.themoviedb.org/search?query=Sicario%20Day%20of%20the%20Soldado%202018</link>
+  </item>
+
+  <!-- ANIME (100) -->
+  <item>
+    <title>Akira (1988)</title>
+    <guid isPermaLink="false">seed:anime-001</guid>
+    <link>https://www.themoviedb.org/search?query=Akira%201988</link>
+  </item>
+  <item>
+    <title>Ghost in the Shell (1995)</title>
+    <guid isPermaLink="false">seed:anime-002</guid>
+    <link>https://www.themoviedb.org/search?query=Ghost%20in%20the%20Shell%201995</link>
+  </item>
+  <item>
+    <title>Ninja Scroll (1993)</title>
+    <guid isPermaLink="false">seed:anime-003</guid>
+    <link>https://www.themoviedb.org/search?query=Ninja%20Scroll%201993</link>
+  </item>
+  <item>
+    <title>Vampire Hunter D: Bloodlust (2000)</title>
+    <guid isPermaLink="false">seed:anime-004</guid>
+    <link>https://www.themoviedb.org/search?query=Vampire%20Hunter%20D%20Bloodlust%202000</link>
+  </item>
+  <item>
+    <title>Redline (2009)</title>
+    <guid isPermaLink="false">seed:anime-005</guid>
+    <link>https://www.themoviedb.org/search?query=Redline%202009</link>
+  </item>
+  <item>
+    <title>Princess Mononoke (1997)</title>
+    <guid isPermaLink="false">seed:anime-006</guid>
+    <link>https://www.themoviedb.org/search?query=Princess%20Mononoke%201997</link>
+  </item>
+  <item>
+    <title>Spirited Away (2001)</title>
+    <guid isPermaLink="false">seed:anime-007</guid>
+    <link>https://www.themoviedb.org/search?query=Spirited%20Away%202001</link>
+  </item>
+  <item>
+    <title>Howl's Moving Castle (2004)</title>
+    <guid isPermaLink="false">seed:anime-008</guid>
+    <link>https://www.themoviedb.org/search?query=Howl%27s%20Moving%20Castle%202004</link>
+  </item>
+  <item>
+    <title>Castle in the Sky (1986)</title>
+    <guid isPermaLink="false">seed:anime-009</guid>
+    <link>https://www.themoviedb.org/search?query=Castle%20in%20the%20Sky%201986</link>
+  </item>
+  <item>
+    <title>Nausicaä of the Valley of the Wind (1984)</title>
+    <guid isPermaLink="false">seed:anime-010</guid>
+    <link>https://www.themoviedb.org/search?query=Nausicaa%201984</link>
+  </item>
+
+  <item>
+    <title>My Neighbor Totoro (1988)</title>
+    <guid isPermaLink="false">seed:anime-011</guid>
+    <link>https://www.themoviedb.org/search?query=My%20Neighbor%20Totoro%201988</link>
+  </item>
+  <item>
+    <title>Kiki's Delivery Service (1989)</title>
+    <guid isPermaLink="false">seed:anime-012</guid>
+    <link>https://www.themoviedb.org/search?query=Kiki%27s%20Delivery%20Service%201989</link>
+  </item>
+  <item>
+    <title>Ponyo (2008)</title>
+    <guid isPermaLink="false">seed:anime-013</guid>
+    <link>https://www.themoviedb.org/search?query=Ponyo%202008</link>
+  </item>
+  <item>
+    <title>Porco Rosso (1992)</title>
+    <guid isPermaLink="false">seed:anime-014</guid>
+    <link>https://www.themoviedb.org/search?query=Porco%20Rosso%201992</link>
+  </item>
+  <item>
+    <title>The Wind Rises (2013)</title>
+    <guid isPermaLink="false">seed:anime-015</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Wind%20Rises%202013</link>
+  </item>
+  <item>
+    <title>The Tale of the Princess Kaguya (2013)</title>
+    <guid isPermaLink="false">seed:anime-016</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Tale%20of%20the%20Princess%20Kaguya%202013</link>
+  </item>
+  <item>
+    <title>Whisper of the Heart (1995)</title>
+    <guid isPermaLink="false">seed:anime-017</guid>
+    <link>https://www.themoviedb.org/search?query=Whisper%20of%20the%20Heart%201995</link>
+  </item>
+  <item>
+    <title>The Cat Returns (2002)</title>
+    <guid isPermaLink="false">seed:anime-018</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Cat%20Returns%202002</link>
+  </item>
+  <item>
+    <title>From Up on Poppy Hill (2011)</title>
+    <guid isPermaLink="false">seed:anime-019</guid>
+    <link>https://www.themoviedb.org/search?query=From%20Up%20on%20Poppy%20Hill%202011</link>
+  </item>
+  <item>
+    <title>When Marnie Was There (2014)</title>
+    <guid isPermaLink="false">seed:anime-020</guid>
+    <link>https://www.themoviedb.org/search?query=When%20Marnie%20Was%20There%202014</link>
+  </item>
+  <item>
+    <title>The Secret World of Arrietty (2010)</title>
+    <guid isPermaLink="false">seed:anime-021</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Secret%20World%20of%20Arrietty%202010</link>
+  </item>
+  <item>
+    <title>Ocean Waves (1993)</title>
+    <guid isPermaLink="false">seed:anime-022</guid>
+    <link>https://www.themoviedb.org/search?query=Ocean%20Waves%201993</link>
+  </item>
+  <item>
+    <title>Grave of the Fireflies (1988)</title>
+    <guid isPermaLink="false">seed:anime-023</guid>
+    <link>https://www.themoviedb.org/search?query=Grave%20of%20the%20Fireflies%201988</link>
+  </item>
+  <item>
+    <title>Perfect Blue (1997)</title>
+    <guid isPermaLink="false">seed:anime-024</guid>
+    <link>https://www.themoviedb.org/search?query=Perfect%20Blue%201997</link>
+  </item>
+  <item>
+    <title>Paprika (2006)</title>
+    <guid isPermaLink="false">seed:anime-025</guid>
+    <link>https://www.themoviedb.org/search?query=Paprika%202006</link>
+  </item>
+  <item>
+    <title>Tokyo Godfathers (2003)</title>
+    <guid isPermaLink="false">seed:anime-026</guid>
+    <link>https://www.themoviedb.org/search?query=Tokyo%20Godfathers%202003</link>
+  </item>
+  <item>
+    <title>Millennium Actress (2001)</title>
+    <guid isPermaLink="false">seed:anime-027</guid>
+    <link>https://www.themoviedb.org/search?query=Millennium%20Actress%202001</link>
+  </item>
+  <item>
+    <title>The Girl Who Leapt Through Time (2006)</title>
+    <guid isPermaLink="false">seed:anime-028</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Girl%20Who%20Leapt%20Through%20Time%202006</link>
+  </item>
+  <item>
+    <title>Summer Wars (2009)</title>
+    <guid isPermaLink="false">seed:anime-029</guid>
+    <link>https://www.themoviedb.org/search?query=Summer%20Wars%202009</link>
+  </item>
+  <item>
+    <title>Wolf Children (2012)</title>
+    <guid isPermaLink="false">seed:anime-030</guid>
+    <link>https://www.themoviedb.org/search?query=Wolf%20Children%202012</link>
+  </item>
+  <item>
+    <title>The Boy and the Beast (2015)</title>
+    <guid isPermaLink="false">seed:anime-031</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Boy%20and%20the%20Beast%202015</link>
+  </item>
+  <item>
+    <title>Mirai (2018)</title>
+    <guid isPermaLink="false">seed:anime-032</guid>
+    <link>https://www.themoviedb.org/search?query=Mirai%202018</link>
+  </item>
+  <item>
+    <title>Belle (2021)</title>
+    <guid isPermaLink="false">seed:anime-033</guid>
+    <link>https://www.themoviedb.org/search?query=Belle%202021</link>
+  </item>
+  <item>
+    <title>Your Name (2016)</title>
+    <guid isPermaLink="false">seed:anime-034</guid>
+    <link>https://www.themoviedb.org/search?query=Your%20Name%202016</link>
+  </item>
+  <item>
+    <title>Weathering with You (2019)</title>
+    <guid isPermaLink="false">seed:anime-035</guid>
+    <link>https://www.themoviedb.org/search?query=Weathering%20with%20You%202019</link>
+  </item>
+  <item>
+    <title>Suzume (2022)</title>
+    <guid isPermaLink="false">seed:anime-036</guid>
+    <link>https://www.themoviedb.org/search?query=Suzume%202022</link>
+  </item>
+  <item>
+    <title>A Silent Voice (2016)</title>
+    <guid isPermaLink="false">seed:anime-037</guid>
+    <link>https://www.themoviedb.org/search?query=A%20Silent%20Voice%202016</link>
+  </item>
+  <item>
+    <title>I Want to Eat Your Pancreas (2018)</title>
+    <guid isPermaLink="false">seed:anime-038</guid>
+    <link>https://www.themoviedb.org/search?query=I%20Want%20to%20Eat%20Your%20Pancreas%202018</link>
+  </item>
+  <item>
+    <title>Words Bubble Up Like Soda Pop (2021)</title>
+    <guid isPermaLink="false">seed:anime-039</guid>
+    <link>https://www.themoviedb.org/search?query=Words%20Bubble%20Up%20Like%20Soda%20Pop%202021</link>
+  </item>
+  <item>
+    <title>The Garden of Words (2013)</title>
+    <guid isPermaLink="false">seed:anime-040</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Garden%20of%20Words%202013</link>
+  </item>
+  <item>
+    <title>5 Centimeters per Second (2007)</title>
+    <guid isPermaLink="false">seed:anime-041</guid>
+    <link>https://www.themoviedb.org/search?query=5%20Centimeters%20per%20Second%202007</link>
+  </item>
+  <item>
+    <title>The Place Promised in Our Early Days (2004)</title>
+    <guid isPermaLink="false">seed:anime-042</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Place%20Promised%20in%20Our%20Early%20Days%202004</link>
+  </item>
+  <item>
+    <title>Children Who Chase Lost Voices (2011)</title>
+    <guid isPermaLink="false">seed:anime-043</guid>
+    <link>https://www.themoviedb.org/search?query=Children%20Who%20Chase%20Lost%20Voices%202011</link>
+  </item>
+  <item>
+    <title>The Anthem of the Heart (2015)</title>
+    <guid isPermaLink="false">seed:anime-044</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Anthem%20of%20the%20Heart%202015</link>
+  </item>
+  <item>
+    <title>In This Corner of the World (2016)</title>
+    <guid isPermaLink="false">seed:anime-045</guid>
+    <link>https://www.themoviedb.org/search?query=In%20This%20Corner%20of%20the%20World%202016</link>
+  </item>
+  <item>
+    <title>Lu Over the Wall (2017)</title>
+    <guid isPermaLink="false">seed:anime-046</guid>
+    <link>https://www.themoviedb.org/search?query=Lu%20Over%20the%20Wall%202017</link>
+  </item>
+  <item>
+    <title>Ride Your Wave (2019)</title>
+    <guid isPermaLink="false">seed:anime-047</guid>
+    <link>https://www.themoviedb.org/search?query=Ride%20Your%20Wave%202019</link>
+  </item>
+  <item>
+    <title>Promare (2019)</title>
+    <guid isPermaLink="false">seed:anime-048</guid>
+    <link>https://www.themoviedb.org/search?query=Promare%202019</link>
+  </item>
+  <item>
+    <title>Sword of the Stranger (2007)</title>
+    <guid isPermaLink="false">seed:anime-049</guid>
+    <link>https://www.themoviedb.org/search?query=Sword%20of%20the%20Stranger%202007</link>
+  </item>
+  <item>
+    <title>Tekkonkinkreet (2006)</title>
+    <guid isPermaLink="false">seed:anime-050</guid>
+    <link>https://www.themoviedb.org/search?query=Tekkonkinkreet%202006</link>
+  </item>
+  <item>
+    <title>The Night Is Short, Walk on Girl (2017)</title>
+    <guid isPermaLink="false">seed:anime-051</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Night%20Is%20Short%20Walk%20on%20Girl%202017</link>
+  </item>
+  <item>
+    <title>Mind Game (2004)</title>
+    <guid isPermaLink="false">seed:anime-052</guid>
+    <link>https://www.themoviedb.org/search?query=Mind%20Game%202004</link>
+  </item>
+  <item>
+    <title>The Red Turtle (2016)</title>
+    <guid isPermaLink="false">seed:anime-053</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Red%20Turtle%202016</link>
+  </item>
+  <item>
+    <title>Dragon Ball Super: Broly (2018)</title>
+    <guid isPermaLink="false">seed:anime-054</guid>
+    <link>https://www.themoviedb.org/search?query=Dragon%20Ball%20Super%20Broly%202018</link>
+  </item>
+  <item>
+    <title>Dragon Ball Super: Super Hero (2022)</title>
+    <guid isPermaLink="false">seed:anime-055</guid>
+    <link>https://www.themoviedb.org/search?query=Dragon%20Ball%20Super%20Super%20Hero%202022</link>
+  </item>
+  <item>
+    <title>One Piece Film: Z (2012)</title>
+    <guid isPermaLink="false">seed:anime-056</guid>
+    <link>https://www.themoviedb.org/search?query=One%20Piece%20Film%20Z%202012</link>
+  </item>
+  <item>
+    <title>One Piece Film: Gold (2016)</title>
+    <guid isPermaLink="false">seed:anime-057</guid>
+    <link>https://www.themoviedb.org/search?query=One%20Piece%20Film%20Gold%202016</link>
+  </item>
+  <item>
+    <title>One Piece Film: Red (2022)</title>
+    <guid isPermaLink="false">seed:anime-058</guid>
+    <link>https://www.themoviedb.org/search?query=One%20Piece%20Film%20Red%202022</link>
+  </item>
+  <item>
+    <title>Naruto Shippuden the Movie (2007)</title>
+    <guid isPermaLink="false">seed:anime-059</guid>
+    <link>https://www.themoviedb.org/search?query=Naruto%20Shippuden%20the%20Movie%202007</link>
+  </item>
+  <item>
+    <title>Naruto Shippuden the Movie: Bonds (2008)</title>
+    <guid isPermaLink="false">seed:anime-060</guid>
+    <link>https://www.themoviedb.org/search?query=Naruto%20Shippuden%20Bonds%202008</link>
+  </item>
+  <item>
+    <title>Naruto Shippuden the Movie: The Will of Fire (2009)</title>
+    <guid isPermaLink="false">seed:anime-061</guid>
+    <link>https://www.themoviedb.org/search?query=Naruto%20Shippuden%20The%20Will%20of%20Fire%202009</link>
+  </item>
+  <item>
+    <title>Naruto Shippuden the Movie: The Lost Tower (2010)</title>
+    <guid isPermaLink="false">seed:anime-062</guid>
+    <link>https://www.themoviedb.org/search?query=Naruto%20Shippuden%20The%20Lost%20Tower%202010</link>
+  </item>
+  <item>
+    <title>Naruto Shippuden the Movie: Blood Prison (2011)</title>
+    <guid isPermaLink="false">seed:anime-063</guid>
+    <link>https://www.themoviedb.org/search?query=Naruto%20Shippuden%20Blood%20Prison%202011</link>
+  </item>
+  <item>
+    <title>Naruto Shippuden the Movie: Road to Ninja (2012)</title>
+    <guid isPermaLink="false">seed:anime-064</guid>
+    <link>https://www.themoviedb.org/search?query=Road%20to%20Ninja%202012</link>
+  </item>
+  <item>
+    <title>Boruto: Naruto the Movie (2015)</title>
+    <guid isPermaLink="false">seed:anime-065</guid>
+    <link>https://www.themoviedb.org/search?query=Boruto%20Naruto%20the%20Movie%202015</link>
+  </item>
+  <item>
+    <title>Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train (2020)</title>
+    <guid isPermaLink="false">seed:anime-066</guid>
+    <link>https://www.themoviedb.org/search?query=Demon%20Slayer%20Mugen%20Train%202020</link>
+  </item>
+  <item>
+    <title>Jujutsu Kaisen 0 (2021)</title>
+    <guid isPermaLink="false">seed:anime-067</guid>
+    <link>https://www.themoviedb.org/search?query=Jujutsu%20Kaisen%200%202021</link>
+  </item>
+  <item>
+    <title>My Hero Academia: Two Heroes (2018)</title>
+    <guid isPermaLink="false">seed:anime-068</guid>
+    <link>https://www.themoviedb.org/search?query=My%20Hero%20Academia%20Two%20Heroes%202018</link>
+  </item>
+  <item>
+    <title>My Hero Academia: Heroes Rising (2019)</title>
+    <guid isPermaLink="false">seed:anime-069</guid>
+    <link>https://www.themoviedb.org/search?query=My%20Hero%20Academia%20Heroes%20Rising%202019</link>
+  </item>
+  <item>
+    <title>My Hero Academia: World Heroes' Mission (2021)</title>
+    <guid isPermaLink="false">seed:anime-070</guid>
+    <link>https://www.themoviedb.org/search?query=My%20Hero%20Academia%20World%20Heroes%20Mission%202021</link>
+  </item>
+  <item>
+    <title>Evangelion: 1.0 You Are (Not) Alone (2007)</title>
+    <guid isPermaLink="false">seed:anime-071</guid>
+    <link>https://www.themoviedb.org/search?query=Evangelion%201.0%202007</link>
+  </item>
+  <item>
+    <title>Evangelion: 2.0 You Can (Not) Advance (2009)</title>
+    <guid isPermaLink="false">seed:anime-072</guid>
+    <link>https://www.themoviedb.org/search?query=Evangelion%202.0%202009</link>
+  </item>
+  <item>
+    <title>Evangelion: 3.0 You Can (Not) Redo (2012)</title>
+    <guid isPermaLink="false">seed:anime-073</guid>
+    <link>https://www.themoviedb.org/search?query=Evangelion%203.0%202012</link>
+  </item>
+  <item>
+    <title>Evangelion: 3.0+1.0 Thrice Upon a Time (2021)</title>
+    <guid isPermaLink="false">seed:anime-074</guid>
+    <link>https://www.themoviedb.org/search?query=Evangelion%203.0%2B1.0%202021</link>
+  </item>
+  <item>
+    <title>Steamboy (2004)</title>
+    <guid isPermaLink="false">seed:anime-075</guid>
+    <link>https://www.themoviedb.org/search?query=Steamboy%202004</link>
+  </item>
+  <item>
+    <title>Metropolis (2001)</title>
+    <guid isPermaLink="false">seed:anime-076</guid>
+    <link>https://www.themoviedb.org/search?query=Metropolis%202001%20anime</link>
+  </item>
+  <item>
+    <title>The Animatrix (2003)</title>
+    <guid isPermaLink="false">seed:anime-077</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Animatrix%202003</link>
+  </item>
+  <item>
+    <title>Pokémon: The First Movie (1998)</title>
+    <guid isPermaLink="false">seed:anime-078</guid>
+    <link>https://www.themoviedb.org/search?query=Pokemon%20The%20First%20Movie%201998</link>
+  </item>
+  <item>
+    <title>Pokémon 2000 (1999)</title>
+    <guid isPermaLink="false">seed:anime-079</guid>
+    <link>https://www.themoviedb.org/search?query=Pokemon%202000%201999</link>
+  </item>
+  <item>
+    <title>Pokémon 3: The Movie (2000)</title>
+    <guid isPermaLink="false">seed:anime-080</guid>
+    <link>https://www.themoviedb.org/search?query=Pokemon%203%20The%20Movie%202000</link>
+  </item>
+  <item>
+    <title>Detective Conan: The Phantom of Baker Street (2002)</title>
+    <guid isPermaLink="false">seed:anime-081</guid>
+    <link>https://www.themoviedb.org/search?query=Detective%20Conan%20Phantom%20of%20Baker%20Street%202002</link>
+  </item>
+  <item>
+    <title>Detective Conan: The Crimson Love Letter (2017)</title>
+    <guid isPermaLink="false">seed:anime-082</guid>
+    <link>https://www.themoviedb.org/search?query=Detective%20Conan%20Crimson%20Love%20Letter%202017</link>
+  </item>
+  <item>
+    <title>Detective Conan: The Scarlet Bullet (2021)</title>
+    <guid isPermaLink="false">seed:anime-083</guid>
+    <link>https://www.themoviedb.org/search?query=Detective%20Conan%20Scarlet%20Bullet%202021</link>
+  </item>
+  <item>
+    <title>Lupin the Third: The Castle of Cagliostro (1979)</title>
+    <guid isPermaLink="false">seed:anime-084</guid>
+    <link>https://www.themoviedb.org/search?query=Castle%20of%20Cagliostro%201979</link>
+  </item>
+  <item>
+    <title>Lupin III: The First (2019)</title>
+    <guid isPermaLink="false">seed:anime-085</guid>
+    <link>https://www.themoviedb.org/search?query=Lupin%20III%20The%20First%202019</link>
+  </item>
+  <item>
+    <title>The Disappearance of Haruhi Suzumiya (2010)</title>
+    <guid isPermaLink="false">seed:anime-086</guid>
+    <link>https://www.themoviedb.org/search?query=The%20Disappearance%20of%20Haruhi%20Suzumiya%202010</link>
+  </item>
+  <item>
+    <title>Black Butler: Book of the Atlantic (2017)</title>
+    <guid isPermaLink="false">seed:anime-087</guid>
+    <link>https://www.themoviedb.org/search?query=Black%20Butler%20Book%20of%20the%20Atlantic%202017</link>
+  </item>
+  <item>
+    <title>Fairy Tail: Dragon Cry (2017)</title>
+    <guid isPermaLink="false">seed:anime-088</guid>
+    <link>https://www.themoviedb.org/search?query=Fairy%20Tail%20Dragon%20Cry%202017</link>
+  </item>
+  <item>
+    <title>Bleach: Hell Verse (2010)</title>
+    <guid isPermaLink="false">seed:anime-089</guid>
+    <link>https://www.themoviedb.org/search?query=Bleach%20Hell%20Verse%202010</link>
+  </item>
+  <item>
+    <title>K-On! The Movie (2011)</title>
+    <guid isPermaLink="false">seed:anime-090</guid>
+    <link>https://www.themoviedb.org/search?query=K-On%20The%20Movie%202011</link>
+  </item>
+  <item>
+    <title>Haikyu!! The Movie: Talent and Sense (2017)</title>
+    <guid isPermaLink="false">seed:anime-091</guid>
+    <link>https://www.themoviedb.org/search?query=Haikyu%20Talent%20and%20Sense%202017</link>
+  </item>
+  <item>
+    <title>Haikyu!! The Movie: Battle of Concepts (2017)</title>
+    <guid isPermaLink="false">seed:anime-092</guid>
+    <link>https://www.themoviedb.org/search?query=Haikyu%20Battle%20of%20Concepts%202017</link>
+  </item>
+  <item>
+    <title>Code Geass: Lelouch of the Re;surrection (2019)</title>
+    <guid isPermaLink="false">seed:anime-093</guid>
+    <link>https://www.themoviedb.org/search?query=Code%20Geass%20Lelouch%20of%20the%20Re%3Bsurrection%202019</link>
+  </item>
+  <item>
+    <title>Gintama: The Movie (2010)</title>
+    <guid isPermaLink="false">seed:anime-094</guid>
+    <link>https://www.themoviedb.org/search?query=Gintama%20The%20Movie%202010</link>
+  </item>
+  <item>
+    <title>Gintama: The Final (2021)</title>
+    <guid isPermaLink="false">seed:anime-095</guid>
+    <link>https://www.themoviedb.org/search?query=Gintama%20The%20Final%202021</link>
+  </item>
+  <item>
+    <title>The End of Evangelion (1997)</title>
+    <guid isPermaLink="false">seed:anime-096</guid>
+    <link>https://www.themoviedb.org/search?query=The%20End%20of%20Evangelion%201997</link>
+  </item>
+  <item>
+    <title>Neon Genesis Evangelion: Death &amp; Rebirth (1997)</title>
+    <guid isPermaLink="false">seed:anime-097</guid>
+    <link>https://www.themoviedb.org/search?query=Evangelion%20Death%20and%20Rebirth%201997</link>
+  </item>
+  <item>
+    <title>Mobile Suit Gundam: Char's Counterattack (1988)</title>
+    <guid isPermaLink="false">seed:anime-098</guid>
+    <link>https://www.themoviedb.org/search?query=Char%27s%20Counterattack%201988</link>
+  </item>
+  <item>
+    <title>Mobile Suit Gundam: Hathaway (2021)</title>
+    <guid isPermaLink="false">seed:anime-099</guid>
+    <link>https://www.themoviedb.org/search?query=Gundam%20Hathaway%202021</link>
+  </item>
+  <item>
+    <title>Mobile Suit Gundam: Cucuruz Doan's Island (2022)</title>
+    <guid isPermaLink="false">seed:anime-100</guid>
+    <link>https://www.themoviedb.org/search?query=Cucuruz%20Doan%27s%20Island%202022</link>
   </item>
 </channel>
 </rss>
