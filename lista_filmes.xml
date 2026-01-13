@@ -5,7 +5,7 @@
   <description>Lista de filmes para Radarr</description>
   <link>https://github.com/nickcatsshild/playlist</link>
   <atom:link href="https://raw.githubusercontent.com/nickcatsshild/playlist/main/lista_filmes.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Mon, 12 Jan 2026 12:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Jan 2026 12:00:00 GMT</lastBuildDate>
   <ttl>60</ttl>
   <generator>Radarr Import List</generator>
 
@@ -14,37 +14,485 @@
     <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/presas-do-abismo-2025</guid>
     <link>https://github.com/nickcatsshild/playlist/blob/main/presas-do-abismo-2025</link>
   </item>
-  
-  <item>
-    <title>A Mulher Verde (2022)</title>
-    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/a-mulher-verde-2022</guid>
-    <link>https://github.com/nickcatsshild/playlist/blob/main/a-mulher-verde-2022</link>
-  </item>
-  
+
   <item>
     <title>C.I.C. - Central de Inteligência Cearense (2025)</title>
     <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/cic-central-de-inteligencia-cearense-2025</guid>
     <link>https://github.com/nickcatsshild/playlist/blob/main/cic-central-de-inteligencia-cearense-2025</link>
   </item>
-  
-  <item>
-    <title>Dakar: Corrida Contra o Deserto (2024)</title>
-    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/dakar-corrida-contra-o-deserto-2024</guid>
-    <link>https://github.com/nickcatsshild/playlist/blob/main/dakar-corrida-contra-o-deserto-2024</link>
-  </item>
-  
-  <item>
-    <title>Mauricio de Sousa - O Filme (2025)</title>
-    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/mauricio-de-sousa-o-filme-2025</guid>
-    <link>https://github.com/nickcatsshild/playlist/blob/main/mauricio-de-sousa-o-filme-2025</link>
-  </item>
-  
+
   <item>
     <title>A Nova Vida de Clemence (2022)</title>
-    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/a-nova-vida-de-clemence-2022</guid>
-    <link>https://github.com/nickcatsshild/playlist/blob/main/a-nova-vida-de-clemence-2022</link>
+    <guid isPermaLink="false">tmdb:969492</guid>
+    <link>https://www.themoviedb.org/movie/969492</link>
   </item>
 
-  <!-- Continue com o mesmo padrão para os outros itens -->
+  <item>
+    <title>Constantine: Cidade de Demônios (2018)</title>
+    <guid isPermaLink="false">tmdb:584689</guid>
+    <link>https://www.themoviedb.org/movie/584689</link>
+  </item>
+
+  <item>
+    <title>O Homem Que Mudou o Jogo (Moneyball, 2011)</title>
+    <guid isPermaLink="false">tmdb:11906</guid>
+    <link>https://www.themoviedb.org/movie/11906</link>
+  </item>
+
+  <item>
+    <title>Onda de Violência (2025)</title>
+    <guid isPermaLink="false">tmdb:1181587</guid>
+    <link>https://www.themoviedb.org/movie/1181587</link>
+  </item>
+
+  <item>
+    <title>Dungeons &amp; Dragons: Honra Entre Rebeldes (2023)</title>
+    <guid isPermaLink="false">tmdb:493529</guid>
+    <link>https://www.themoviedb.org/movie/493529</link>
+  </item>
+
+  <item>
+    <title>Romeu Tem Que Morrer (2000)</title>
+    <guid isPermaLink="false">tmdb:2013</guid>
+    <link>https://www.themoviedb.org/movie/2013</link>
+  </item>
+
+  <item>
+    <title>Uma Receita de Natal (2022)</title>
+    <guid isPermaLink="false">tmdb:999183</guid>
+    <link>https://www.themoviedb.org/movie/999183</link>
+  </item>
+
+  <item>
+    <title>Super Man: The Christopher Reeve Story (2024)</title>
+    <guid isPermaLink="false">tmdb:1296826</guid>
+    <link>https://www.themoviedb.org/movie/1296826</link>
+  </item>
+
+  <item>
+    <title>A Mulher Verde (2022)</title>
+    <guid isPermaLink="false">tmdb:996308</guid>
+    <link>https://www.themoviedb.org/movie/996308</link>
+  </item>
+
+  <item>
+    <title>Separados pelas Estrelas (2025)</title>
+    <guid isPermaLink="false">tmdb:1413108</guid>
+    <link>https://www.themoviedb.org/movie/1413108</link>
+  </item>
+
+  <item>
+    <title>Elio (2025)</title>
+    <guid isPermaLink="false">tmdb:1248074</guid>
+    <link>https://www.themoviedb.org/movie/1248074</link>
+  </item>
+
+  <item>
+    <title>Mesa Maldita (2022)</title>
+    <guid isPermaLink="false">tmdb:1017614</guid>
+    <link>https://www.themoviedb.org/movie/1017614</link>
+  </item>
+
+  <item>
+    <title>Dakar: Corrida Contra o Deserto (2024)</title>
+    <guid isPermaLink="false">tmdb:1323876</guid>
+    <link>https://www.themoviedb.org/movie/1323876</link>
+  </item>
+
+  <item>
+    <title>Mauricio de Sousa - O Filme (2025)</title>
+    <guid isPermaLink="false">tmdb:1411476</guid>
+    <link>https://www.themoviedb.org/movie/1411476</link>
+  </item>
+
+  <item>
+    <title>She Rides Shotgun (2025)</title>
+    <guid isPermaLink="false">tmdb:1401807</guid>
+    <link>https://www.themoviedb.org/movie/1401807</link>
+  </item>
+
+  <item>
+    <title>Screamboat: Terror a Bordo (2025)</title>
+    <guid isPermaLink="false">tmdb:1413124</guid>
+    <link>https://www.themoviedb.org/movie/1413124</link>
+  </item>
+
+  <item>
+    <title>Omniscient Reader: The Prophecy (2025)</title>
+    <guid isPermaLink="false">tmdb:1414360</guid>
+    <link>https://www.themoviedb.org/movie/1414360</link>
+  </item>
+
+  <item>
+    <title>Dose Dupla (2024)</title>
+    <guid isPermaLink="false">tmdb:1382209</guid>
+    <link>https://www.themoviedb.org/movie/1382209</link>
+  </item>
+
+  <item>
+    <title>The Life of Chuck (2024)</title>
+    <guid isPermaLink="false">tmdb:1391081</guid>
+    <link>https://www.themoviedb.org/movie/1391081</link>
+  </item>
+
+  <item>
+    <title>A Lista Perversa do Sr. Scrooge (2024)</title>
+    <guid isPermaLink="false">tmdb:1359203</guid>
+    <link>https://www.themoviedb.org/movie/1359203</link>
+  </item>
+
+  <item>
+    <title>Crackcoon (2024)</title>
+    <guid isPermaLink="false">tmdb:1340945</guid>
+    <link>https://www.themoviedb.org/movie/1340945</link>
+  </item>
+
+  <item>
+    <title>Inferno Tropical (2023)</title>
+    <guid isPermaLink="false">tmdb:1262663</guid>
+    <link>https://www.themoviedb.org/movie/1262663</link>
+  </item>
+
+  <item>
+    <title>Great White Waters (2025)</title>
+    <guid isPermaLink="false">tmdb:1396797</guid>
+    <link>https://www.themoviedb.org/movie/1396797</link>
+  </item>
+
+  <item>
+    <title>Cerco ao Terror: Ataque ao Templo (2021)</title>
+    <guid isPermaLink="false">tmdb:910108</guid>
+    <link>https://www.themoviedb.org/movie/910108</link>
+  </item>
+
+  <item>
+    <title>Meus Pais Foram Abduzidos... (2023)</title>
+    <guid isPermaLink="false">tmdb:1148975</guid>
+    <link>https://www.themoviedb.org/movie/1148975</link>
+  </item>
+
+  <item>
+    <title>O Entregador da Noite (2024)</title>
+    <guid isPermaLink="false">tmdb:1387771</guid>
+    <link>https://www.themoviedb.org/movie/1387771</link>
+  </item>
+
+  <item>
+    <title>The Death of Snow White (2025)</title>
+    <guid isPermaLink="false">tmdb:1398817</guid>
+    <link>https://www.themoviedb.org/movie/1398817</link>
+  </item>
+
+  <item>
+    <title>Together (2025)</title>
+    <guid isPermaLink="false">tmdb:1395691</guid>
+    <link>https://www.themoviedb.org/movie/1395691</link>
+  </item>
+
+  <item>
+    <title>Death of a Unicorn (2025)</title>
+    <guid isPermaLink="false">tmdb:1383081</guid>
+    <link>https://www.themoviedb.org/movie/1383081</link>
+  </item>
+
+  <item>
+    <title>Deadpool &amp; Wolverine (2024)</title>
+    <guid isPermaLink="false">tmdb:533535</guid>
+    <link>https://www.themoviedb.org/movie/533535</link>
+  </item>
+
+  <item>
+    <title>The Naked Gun (2025)</title>
+    <guid isPermaLink="false">tmdb:1407469</guid>
+    <link>https://www.themoviedb.org/movie/1407469</link>
+  </item>
+
+  <item>
+    <title>Entre as Luzes (2023)</title>
+    <guid isPermaLink="false">tmdb:1239251</guid>
+    <link>https://www.themoviedb.org/movie/1239251</link>
+  </item>
+
+  <item>
+    <title>Thunderbolts (2025)</title>
+    <guid isPermaLink="false">tmdb:1096197</guid>
+    <link>https://www.themoviedb.org/movie/1096197</link>
+  </item>
+
+  <item>
+    <title>Absolute Dominion (2025)</title>
+    <guid isPermaLink="false">tmdb:1394825</guid>
+    <link>https://www.themoviedb.org/movie/1394825</link>
+  </item>
+
+  <item>
+    <title>Joker: Folie à Deux (2024)</title>
+    <guid isPermaLink="false">tmdb:1125311</guid>
+    <link>https://www.themoviedb.org/movie/1125311</link>
+  </item>
+
+  <item>
+    <title>Marcas do Passado (2022)</title>
+    <guid isPermaLink="false">tmdb:1071215</guid>
+    <link>https://www.themoviedb.org/movie/1071215</link>
+  </item>
+
+  <item>
+    <title>Cães de Guerra (2022)</title>
+    <guid isPermaLink="false">tmdb:926393</guid>
+    <link>https://www.themoviedb.org/movie/926393</link>
+  </item>
+
+  <item>
+    <title>LEGO Disney Princesa Vilões Unidos (2025)</title>
+    <guid isPermaLink="false">tmdb:1415211</guid>
+    <link>https://www.themoviedb.org/movie/1415211</link>
+  </item>
+
+  <item>
+    <title>Lilo &amp; Stitch (2025)</title>
+    <guid isPermaLink="false">tmdb:1245961</guid>
+    <link>https://www.themoviedb.org/movie/1245961</link>
+  </item>
+
+  <item>
+    <title>Guerra dos Mundos (2025)</title>
+    <guid isPermaLink="false">tmdb:1411530</guid>
+    <link>https://www.themoviedb.org/movie/1411530</link>
+  </item>
+
+  <item>
+    <title>Encantadora de Tubarões (2025)</title>
+    <guid isPermaLink="false">tmdb:1412991</guid>
+    <link>https://www.themoviedb.org/movie/1412991</link>
+  </item>
+
+  <item>
+    <title>Onyx (2025)</title>
+    <guid isPermaLink="false">tmdb:1401325</guid>
+    <link>https://www.themoviedb.org/movie/1401325</link>
+  </item>
+
+  <item>
+    <title>The Punisher: War Zone (2008)</title>
+    <guid isPermaLink="false">tmdb:13025</guid>
+    <link>https://www.themoviedb.org/movie/13025</link>
+  </item>
+
+  <item>
+    <title>Ligação Explosiva (2021)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/ligacao-explosiva-2021</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/ligacao-explosiva-2021</link>
+  </item>
+
+  <item>
+    <title>All the Lost Ones (2025)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/all-the-lost-ones-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/all-the-lost-ones-2025</link>
+  </item>
+
+  <item>
+    <title>Os Músicos (2021)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/os-musicos-2021</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/os-musicos-2021</link>
+  </item>
+
+  <item>
+    <title>Nobody 2 (2025)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/nobody-2-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/nobody-2-2025</link>
+  </item>
+
+  <item>
+    <title>Paul: O Alien Fugitivo (2011)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/paul-o-alien-fugitivo-2011</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/paul-o-alien-fugitivo-2011</link>
+  </item>
+
+  <item>
+    <title>Platoon (1986)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/platoon-1986</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/platoon-1986</link>
+  </item>
+
+  <item>
+    <title>Diddy: A queda de um Monstro (2025)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/diddy-a-queda-de-um-monstro-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/diddy-a-queda-de-um-monstro-2025</link>
+  </item>
+
+  <item>
+    <title>Saudosa Maloca (2023)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/saudosa-maloca-2023</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/saudosa-maloca-2023</link>
+  </item>
+
+  <item>
+    <title>Rodada Final (2018)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/rodada-final-2018</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/rodada-final-2018</link>
+  </item>
+
+  <item>
+    <title>Terremoto: A Falha de San Andreas (2015)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/terremoto-a-falha-de-san-andreas-2015</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/terremoto-a-falha-de-san-andreas-2015</link>
+  </item>
+
+  <item>
+    <title>Creed III (2023)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/creed-iii-2023</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/creed-iii-2023</link>
+  </item>
+
+  <item>
+    <title>Carrie: A Estranha (2013)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/carrie-a-estranha-2013</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/carrie-a-estranha-2013</link>
+  </item>
+
+  <item>
+    <title>Cinquenta Tons de Cinza (2015)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/cinquenta-tons-de-cinza-2015</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/cinquenta-tons-de-cinza-2015</link>
+  </item>
+
+  <item>
+    <title>Máquinas Mortais (2018)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/maquinas-mortais-2018</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/maquinas-mortais-2018</link>
+  </item>
+
+  <item>
+    <title>O Espelho (2014)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/o-espelho-2014</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/o-espelho-2014</link>
+  </item>
+
+  <item>
+    <title>Ghosted: Sem Resposta (2023)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/ghosted-sem-resposta-2023</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/ghosted-sem-resposta-2023</link>
+  </item>
+
+  <item>
+    <title>À Procura de Anne Frank (2021)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/a-procura-de-anne-frank-2021</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/a-procura-de-anne-frank-2021</link>
+  </item>
+
+  <item>
+    <title>A Morte do Demônio: A Ascensão (2023)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/a-morte-do-demonio-a-ascensao-2023</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/a-morte-do-demonio-a-ascensao-2023</link>
+  </item>
+
+  <item>
+    <title>Missão Ataque (2022)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/missao-ataque-2022</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/missao-ataque-2022</link>
+  </item>
+
+  <item>
+    <title>Uma Batalha Após a Outra (2025)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/uma-batalha-apos-a-outra-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/uma-batalha-apos-a-outra-2025</link>
+  </item>
+
+  <item>
+    <title>Doutor Sono (2019)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/doutor-sono-2019</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/doutor-sono-2019</link>
+  </item>
+
+  <item>
+    <title>Miss Itália Não Pode Morrer (2025)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/miss-italia-nao-pode-morrer-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/miss-italia-nao-pode-morrer-2025</link>
+  </item>
+
+  <item>
+    <title>Snoopy Apresenta - Um Musical de Verão (2025)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/snoopy-apresenta-um-musical-de-verao-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/snoopy-apresenta-um-musical-de-verao-2025</link>
+  </item>
+
+  <item>
+    <title>Kung Fu Panda 4 (2024)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/kung-fu-panda-4-2024</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/kung-fu-panda-4-2024</link>
+  </item>
+
+  <item>
+    <title>Rocketman (2019)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/rocketman-2019</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/rocketman-2019</link>
+  </item>
+
+  <item>
+    <title>Bob Marley: One Love (2024)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/bob-marley-one-love-2024</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/bob-marley-one-love-2024</link>
+  </item>
+
+  <item>
+    <title>Os Caras Malvados (2022)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/os-caras-malvados-2022</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/os-caras-malvados-2022</link>
+  </item>
+
+  <item>
+    <title>Megalopolis (2024)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/megalopolis-2024</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/megalopolis-2024</link>
+  </item>
+
+  <item>
+    <title>Ne Zha II (2025)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/ne-zha-ii-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/ne-zha-ii-2025</link>
+  </item>
+
+  <item>
+    <title>Materialists (2025)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/materialists-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/materialists-2025</link>
+  </item>
+
+  <item>
+    <title>Querida Elizabeth (2020)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/querida-elizabeth-2020</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/querida-elizabeth-2020</link>
+  </item>
+
+  <item>
+    <title>Priscilla (2023)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/priscilla-2023</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/priscilla-2023</link>
+  </item>
+
+  <item>
+    <title>Os Banshees de Inisherin (2022)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/os-banshees-de-inisherin-2022</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/os-banshees-de-inisherin-2022</link>
+  </item>
+
+  <item>
+    <title>O Lobo da Estepe (2024)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/o-lobo-da-estepe-2024</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/o-lobo-da-estepe-2024</link>
+  </item>
+
+  <item>
+    <title>Shazam! Fúria dos Deuses (2023)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/shazam-furia-dos-deuses-2023</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/shazam-furia-dos-deuses-2023</link>
+  </item>
+
+  <item>
+    <title>Smurfs (2025)</title>
+    <guid isPermaLink="true">https://github.com/nickcatsshild/playlist/blob/main/smurfs-2025</guid>
+    <link>https://github.com/nickcatsshild/playlist/blob/main/smurfs-2025</link>
+  </item>
 </channel>
 </rss>
